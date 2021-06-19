@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+#  - title: "Projects"
+#    url: /year-archive/
+#  - title: "Tools"
+#    url: /categories/
+  - title: "Publications"
+    url: /publications/
+  - title: "Service"
+    url: /service/
+  - title: "Contact Me"
+    url: /contact/
