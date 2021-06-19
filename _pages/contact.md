@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Contact Me"
-permalink: /contact
+permalink: /contact/
 ---
 
 ## Email
