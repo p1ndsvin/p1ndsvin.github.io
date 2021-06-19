@@ -1418,9 +1418,9 @@ body { padding: 85px 0 0; display: -webkit-box; display: -ms-flexbox; display: f
 /* Make sure that all arrows are pointing leftwards */
   .container::before {
     left: 60px;
-    border: medium solid white;
+    border: medium solid #1a1d24;
     border-width: 10px 10px 10px 0;
-    border-color: transparent #C0C0C0 transparent transparent;
+    border-color: transparent ##1a1d24 transparent transparent;
   }
 
 /* Full-width containers */
@@ -1433,9 +1433,9 @@ body { padding: 85px 0 0; display: -webkit-box; display: -ms-flexbox; display: f
 /* Make sure that all arrows are pointing leftwards */
   .container-highlight::before {
     left: 60px;
-    border: medium solid #C0C0C0;
+    border: medium solid #1a1d24;
     border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
+    border-color: transparent #1a1d24 transparent transparent;
   }
 
 /* Make sure all circles are at the same spot */
