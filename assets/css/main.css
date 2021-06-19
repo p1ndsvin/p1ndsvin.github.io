@@ -1420,7 +1420,7 @@ body { padding: 85px 0 0; display: -webkit-box; display: -ms-flexbox; display: f
     left: 60px;
     border: medium solid #1a1d24;
     border-width: 10px 10px 10px 0;
-    border-color: transparent ##1a1d24 transparent transparent;
+    border-color: transparent #1a1d24 transparent transparent;
   }
 
 /* Full-width containers */
