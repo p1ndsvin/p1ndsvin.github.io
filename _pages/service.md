@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Service"
-permalink: /service
+permalink: /service/
 ---
 
 ## Workshops
