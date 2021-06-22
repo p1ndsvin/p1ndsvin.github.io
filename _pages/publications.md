@@ -20,7 +20,7 @@ permalink: /publications/
 * **Model-based exploration of the frontier of behaviours for deep learning system testing**  
   Riccio, Vincenzo and Tonella, Paolo  
   *In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020)*  
-  [\[PDF\]](../assets/pdf/FSE2020.pdf)
+  [\[PDF\]](../assets/pdf/FSE2020.pdf) [\[slides\]](../assets/slides/fse2020_slides.pdf)
 
 * **Testing Machine Learning based Systems: A Systematic Mapping**  
   Riccio, Vincenzo, Jahangirova, Gunel, Stocco, Andrea, Humbatova, Nargiz, Weiss, Michael, and Tonella, Paolo  
