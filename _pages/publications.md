@@ -47,7 +47,7 @@ permalink: /publications/
 * **Is this the lifecycle we really want? an automated black-box testing approach for Android activities**  
   Riccio, Vincenzo, Amalfitano, Domenico, and Fasolino, Anna Rita  
   *In Companion Proceedings for the ISSTA/ECOOP 2018 Workshops (INTUITESTBEDS@ISSTA/ECOOP 2018)*  
-  [\[PDF\]](../assets/pdf/intuitestbeds2018.pdf)
+  [\[PDF\]](../assets/pdf/intuitestbeds2018.pdf) [\[slides\]](../assets/slides/intuitestbeds2018_slides.pdf)
 
 * **Why does the orientation change mess up my Android application? From GUI failures to code faults**  
   Amalfitano, Domenico, Riccio, Vincenzo, Paiva, Ana CR and Fasolino, Anna Rita  
