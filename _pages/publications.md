@@ -13,7 +13,7 @@ permalink: /publications/
 * **SBST Tool Competition 2021**  
   Panichella, Sebastiano, Gambi, Alessio, Zampetti, Fiorella, and Riccio, Vincenzo  
   *In Proceedings of the IEEE/ACM 43rd International Conference on Software Engineering Workshops (SBST@ICSE 2021)*  
-  [\[PDF\]](../assets/pdf/sbst2021.pdf)
+  [\[PDF\]](../assets/pdf/sbst2021.pdf) [\[slides\]](../assets/slides/sbst2021_slides.pdf)
 
 ## 2020
 
