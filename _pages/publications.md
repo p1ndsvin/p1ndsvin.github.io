@@ -57,7 +57,7 @@ permalink: /publications/
 * **Towards a thing-in-the-loop approach for the verification and validation of IoT systems**  
   Amalfitano, Domenico, Amatucci, Nicola, De Simone, Vincenzo, Riccio, Vincenzo, and Fasolino, Anna Rita  
   *In Proceedings of the 1st ACM Workshop on the Internet of Safe Things (SafeThings@SenSys 2017)*  
-  [\[PDF\]](../assets/pdf/intuitestbeds2018.pdf)
+  [\[PDF\]](../assets/pdf/safethings2017.pdf)
 
 ## 2015
 * **Comparing model coverage and code coverage in model driven testing: an exploratory study**  
