@@ -46,7 +46,8 @@ permalink: /publications/
 
 * **Combining automated gui exploration of android apps with capture and replay through machine learning**  
   Domenico Amalfitano, Vincenzo Riccio, Nicola Amatucci, Vincenzo De Simone, and Anna Rita Fasolino  
-  *Information and Software Technology (IST)*
+  *Information and Software Technology (IST)*  
+  [\[PDF\]](../assets/pdf/IST2018.pdf)
 
 ## 2018
 * **Is this the lifecycle we really want? an automated black-box testing approach for Android activities**  
