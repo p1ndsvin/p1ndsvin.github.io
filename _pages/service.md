@@ -4,16 +4,30 @@ title: "Service"
 permalink: /service/
 ---
 
-## Workshops
+## Conferences
+### PC Member
+* MOBILESoft 2022
 
-* DeepTest@ICSE 2021 (Program Co-Organizer)
-* SBST@ICSE 2021 (Tool Competition Co-Organizer)
-* DevOps4CPS-Testing@ICST 2021 (PC Member)
-* DeepTest@ICSE 2020 (Program Co-Organizer)
+### Reviewer
+* ENASE 2017
+
+## Workshops
+### Program Co-Organizer
+* DeepTest@ICSE 2021
+* DeepTest@ICSE 2020
+
+### Tool Competition Co-Organizer
+* SBST@ICSE 2022
+* SBST@ICSE 2021
+
+### PC Member
+* INTUITESTBEDS@ICST 2022
+* ADEVOPS4IoT@SANER 2022
+* DevOps4CPS-Testing@ICST 2021
 
 ## Journals
 
-
+### Reviewer
 * ACM Transactions on Software Engineering and Methodology
 * Empirical Software Engineering
 * Software Testing, Verification and Reliability
@@ -22,6 +36,30 @@ permalink: /service/
 * IEEE Access
 * PeerJ Computer Science
 
-## Conferences
+### Guest Editor
+* [Software Testing in the Machine Learning Era](https://emsejournal.github.io/special_issues/2021_Software_Testing_in_the_Machine_Learning_Era.html) - EMSE Special Issue
 
-* ENASE 2017 (Reviewer)
+## Advisorship
+
+### Ph.D. Theses
+* **Tahereh Zohdinasab**, thesis title: "Explaining Misbehaviours of Deep Learning-Based Systems", ongoing
+
+### M.Sc. Theses
+* **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", 2017
+* **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", 2021
+
+### Internships
+* **Simone Giacomelli, Nelson Brochado**, project title: "Extreme Testing of Self-Driving Cars", 2019
+
+### High School
+* [SJF Study Week](https://sjf.ch/it/review-settimana-di-studio-fascinating-informatics-2021/), project title: "Telemetry Dashboard for Self-Driving Cars", 2021
+
+## Volunteering
+* [U.I.C.I.](https://www.uiciechi.it), Computer training for the visually impaired, 2016-2017 
+
+## Hackatons & Events
+### Co-Organizer
+* [#FormulaUSI 2021](https://formulausi.si.usi.ch/2021/)
+
+### Tutor
+* Porte Aperte, Open Day @ Università degli Studi di Napoli "Federico II", 2017
