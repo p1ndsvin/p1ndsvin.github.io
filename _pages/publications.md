@@ -8,11 +8,12 @@ permalink: /publications/
 
 * **DeepMetis: Augmenting a Deep Learning Test Set to Increase its Mutation Score**  
   Vincenzo Riccio, Nargiz Humbatova, Gunel Jahangirova, and Paolo Tonella  
-  *In Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021) [to appear]*  
+  *In Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*  
+  [\[PDF\]](../assets/pdf/ase2021.pdf) [\[slides\]](../assets/slides/ase2021_slides.pdf)
 
 * **DeepHyperion: Exploring the Feature Space of DeepLearning-Based Systems through Illumination Search**  
   Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
-  *In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2021) [to appear]*  
+  *In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2021)*  
   [\[PDF\]](../assets/pdf/issta2021.pdf)
 
 * **SBST Tool Competition 2021**  
