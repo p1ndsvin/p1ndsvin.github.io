@@ -6,6 +6,7 @@ permalink: /service/
 
 ## Conferences
 ### PC Member
+* ICSE 2023 - NIER track
 * MOBILESoft 2022
 
 ### Reviewer
