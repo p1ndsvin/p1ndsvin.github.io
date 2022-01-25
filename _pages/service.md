@@ -30,6 +30,7 @@ permalink: /service/
 
 ### Reviewer
 * ACM Transactions on Software Engineering and Methodology
+* IEEE Transactions on Software Engineering
 * Empirical Software Engineering
 * Software Testing, Verification and Reliability
 * Journal of Software: Evolution and Process
