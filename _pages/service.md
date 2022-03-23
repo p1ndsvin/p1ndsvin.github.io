@@ -41,6 +41,7 @@ permalink: /service/
 ### Guest Editor
 * [Software Testing in the Machine Learning Era](https://emsejournal.github.io/special_issues/2021_Software_Testing_in_the_Machine_Learning_Era.html) - EMSE Special Issue
 * [Search-based Software Testing ](https://onlinelibrary.wiley.com/pb-assets/assets/20477481/Special%20Issue%20on%20Search-based%20software%20testing-1637849907903.pdf) - JSEP Special Issue
+* [SBST’22: Search-Based Software Engineering – Tools](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/sbst-22-search-based-software-engineering-tools) - SCICO Special Issue
 
 ## Advisorship
 
