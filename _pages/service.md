@@ -7,6 +7,7 @@ permalink: /service/
 ## Conferences
 ### PC Member
 * ICSE 2023 - NIER track
+* ASE 2022 - Artifact Evaluation
 * MOBILESoft 2022
 
 ### Reviewer
