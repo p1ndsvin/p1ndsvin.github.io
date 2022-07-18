@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## 2021
+## 2022
 
 * **Efficient and Effective Feature Space Exploration for Testing Deep Learning Systems**  
   Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
