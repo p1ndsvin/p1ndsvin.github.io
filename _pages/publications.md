@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## 2022
 
+* **Does Road Diversity Really Matter in Testing Automated Driving Systems? -- A Registered Report**  
+  Stefan Klikovits, Vincenzo Riccio, Ezequiel Castellano, Ahmet Cetinkaya, Alessio Gambi, Paolo Arcaini  
+  *In Proceedings of the 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*  
+
 * **Efficient and Effective Feature Space Exploration for Testing Deep Learning Systems**  
   Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
   *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
