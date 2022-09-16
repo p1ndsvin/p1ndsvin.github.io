@@ -28,7 +28,7 @@ permalink: /publications/
 * **DeepHyperion: Exploring the Feature Space of DeepLearning-Based Systems through Illumination Search**  
   Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
   *In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2021)*  
-  [\[PDF\]](../assets/pdf/issta2021.pdf)
+  [\[PDF\]](../assets/pdf/issta2021.pdf)[\[slides\]](../assets/slides/issta2021_slides.pdf)
 
 * **SBST Tool Competition 2021**  
   Sebastiano Panichella, Alessio Gambi, Fiorella Zampetti, and Vincenzo Riccio  
