@@ -23,7 +23,7 @@ permalink: /service/
 * DeepTest@ICSE 2020
 
 ### Tool Competition Co-Organizer
-* SBST@ICSE 2023 
+* SBFT@ICSE 2023 
 * SBST@ICSE 2022
 * SBST@ICSE 2021
 
