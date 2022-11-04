@@ -6,4 +6,4 @@ permalink: /contact/
 
 ## Email
 
-vincenzo.riccio *at* usi *dot* ch
+vincenzo.riccio *at* uniud *dot* ch
