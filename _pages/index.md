@@ -8,12 +8,9 @@ title: "Bio"
 <img src="{{site.baseurl}}/assets/images/Riccio-squared.jpeg" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
 </div>
 
+I am an Assistant Professor at Università di Udine, Italy. Previously, I was a Postdoctoral Researcher with the [Software Institute](https://www.si.usi.ch) of Università della Svizzera Italiana (USI) in Lugano, Switzerland, where I was part of the [PRECRIME](https://www.pre-crime.eu) project led by Prof. [Paolo Tonella](https://www.inf.usi.ch/faculty/tonella/#/). I obtained my Ph.D degree from Università degli Studi di Napoli "Federico II", Italy.
 
-I am a Postdoctoral Researcher with the [Software Institute](https://www.si.usi.ch) of Università della Svizzera Italiana (USI) in Lugano, Switzerland. 
-
-I am part of the [PRECRIME](https://www.pre-crime.eu) project led by Prof. [Paolo Tonella](https://www.inf.usi.ch/faculty/tonella/#/).
-
-My current research is focused on test automation for mobile and machine learning-based software. 
+My research is focused on test automation for mobile and machine learning-based software. 
 
 # Research Interests
 
