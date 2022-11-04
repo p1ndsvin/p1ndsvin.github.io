@@ -6,6 +6,7 @@ permalink: /service/
 
 ## Conferences
 ### PC Member
+* ICST
 * ICSE 2023 - NIER track
 * ASE 2022 - Artifact Evaluation
 * MOBILESoft 2022
@@ -58,7 +59,8 @@ permalink: /service/
 ### Internships
 * **Simone Giacomelli, Nelson Brochado**, project title: "Extreme Testing of Self-Driving Cars", 2019
 
-### High School
+### Secondary School
+* LAM, Tutor for school-leaving exams, 2022
 * [SJF Study Week](https://sjf.ch/it/review-settimana-di-studio-fascinating-informatics-2021/), project title: "Telemetry Dashboard for Self-Driving Cars", 2021
 
 ## Volunteering
