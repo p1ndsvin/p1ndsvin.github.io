@@ -47,14 +47,14 @@ My current research is focused on test automation for mobile and machine learnin
     <div class="content">
       <h3>Assistant Professor</h3>
       <p style="font-size:20px"><a href="https://www.usi.ch/en">Università di Udine</a></p>      
-      <p style="font-size:15px">Udine, Italy<br> 2019-present</p>
+      <p style="font-size:15px">Udine, Italy<br> 2022-present</p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
       <h3>PostDoc</h3>
       <p style="font-size:20px"><a href="https://www.usi.ch/en">Università della Svizzera Italiana</a></p>      
-      <p style="font-size:15px">Lugano, Switzerland<br> 2019-present</p>
+      <p style="font-size:15px">Lugano, Switzerland<br> 2019-2022</p>
     </div>
   </div>
   <div class="container right">
