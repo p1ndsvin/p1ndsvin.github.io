@@ -6,8 +6,11 @@ permalink: /service/
 
 ## Conferences
 ### PC Member
-* ICST
+* ICST 2023 - Testing Tools track
+* ICST 2023 - Tool Demos track
 * ICSE 2023 - NIER track
+* ICSE 2023 - Posters track
+* ANT 2023
 * ASE 2022 - Artifact Evaluation
 * MOBILESoft 2022
 
@@ -20,7 +23,7 @@ permalink: /service/
 * DeepTest@ICSE 2020
 
 ### Tool Competition Co-Organizer
-* SBST 2023
+* SBST@ICSE 2023 
 * SBST@ICSE 2022
 * SBST@ICSE 2021
 
@@ -35,6 +38,8 @@ permalink: /service/
 * ACM Transactions on Software Engineering and Methodology
 * IEEE Transactions on Software Engineering
 * Empirical Software Engineering
+* IEEE Transactions on Reliability
+* Journal of Systems and Software
 * Software Testing, Verification and Reliability
 * Journal of Software: Evolution and Process
 * Science of Computer Programming
