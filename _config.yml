@@ -21,7 +21,7 @@
 title: " "
 email: vincenzo.riccio@usi.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Vincenzo Riccio - PostDoc @ USI - Software Engineering Research
+  Vincenzo Riccio - Assistant Professor @ UniUd - Software Engineering Research
 url: "https://p1ndsvin.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: p1ndsvin
@@ -43,8 +43,8 @@ footer:
 author:
   name: "Vincenzo Riccio"
   #avatar: "/assets/images/Riccio.jpg"
-  bio: "PostDoc @ USI" # Note: Markdown is allowed
-  location: "Lugano, Switzerland"
+  bio: "Assistant Professor @ UniUd" # Note: Markdown is allowed
+  location: "Udine, Italy"
   links:
     #- label: "Made Mistakes"
     #  icon: ""
