@@ -19,6 +19,7 @@ permalink: /service/
 
 ## Workshops
 ### Program Co-Organizer
+* DeepTest@ICSE 2023  
 * DeepTest@ICSE 2021
 * DeepTest@ICSE 2020
 
@@ -73,6 +74,7 @@ permalink: /service/
 
 ## Hackatons & Events
 ### Co-Organizer
+* #FormulaUSI 2022  
 * [#FormulaUSI 2021](https://formulausi.si.usi.ch/2021/)
 
 ### Tutor
