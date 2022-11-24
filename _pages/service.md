@@ -10,6 +10,7 @@ permalink: /service/
 * ICST 2023 - Tool Demos track
 * ICSE 2023 - NIER track
 * ICSE 2023 - Posters track
+* MOBILESoft 2023
 * ANT 2023
 * ASE 2022 - Artifact Evaluation
 * MOBILESoft 2022
@@ -29,6 +30,7 @@ permalink: /service/
 * SBST@ICSE 2021
 
 ### PC Member
+* INTUITESTBEDS@ICST 2023
 * INTUITESTBEDS@ICST 2022
 * ADEVOPS4IoT@SANER 2022
 * DevOps4CPS-Testing@ICST 2021
