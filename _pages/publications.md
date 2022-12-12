@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 ---
 
+## 2023
+
+* **When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study**  
+  Vincenzo Riccio, Paolo Tonella  
+  *In Proceedings of the 45th ACM/IEEE International Conference on Software Engineering (ICSE)*  
+
 ## 2022
 
 * **Does Road Diversity Really Matter in Testing Automated Driving Systems? -- A Registered Report**  
