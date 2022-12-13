@@ -6,14 +6,15 @@ permalink: /service/
 
 ## Conferences
 ### PC Member
+* ICSE 2024 - Demonstrations track
 * ICST 2023 - Testing Tools track
 * ICST 2023 - Tool Demos track
 * ICSE 2023 - NIER track
 * ICSE 2023 - Posters track
-* MOBILESoft 2023
-* ANT 2023
+* MOBILESoft 2023 - Research track
+* ANT 2023 - Systems Software Engineering track
 * ASE 2022 - Artifact Evaluation
-* MOBILESoft 2022
+* MOBILESoft 2022 - Research track
 
 ### Reviewer
 * ENASE 2017
