@@ -81,4 +81,9 @@ permalink: /service/
 * [#FormulaUSI 2021](https://formulausi.si.usi.ch/2021/)
 
 ### Tutor
-* Porte Aperte, Open Day @ Università degli Studi di Napoli "Federico II", 2017
+* Porte Aperte, Open Day @ Università degli Studi di Napoli "Federico II", 2017  
+
+## Misc  
+* **PhD Thesis External Reviewer** for Jon Ayerdi, Mondragon University, Spain  
+* **Book proposal reviewer** for Springer - Computer Science Editorial  
+* **BSc Thesis Opponent** for Università di Udine, Italy. 
