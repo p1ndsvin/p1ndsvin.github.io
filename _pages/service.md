@@ -7,6 +7,7 @@ permalink: /service/
 ## Conferences
 ### PC Member
 * ICSE 2024 - Demonstrations track
+* ICSME 2023 - Research track
 * ICST 2023 - Testing Tools track
 * ICST 2023 - Tool Demos track
 * ICSE 2023 - NIER track
