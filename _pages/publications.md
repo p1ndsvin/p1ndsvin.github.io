@@ -21,10 +21,12 @@ permalink: /publications/
 * **Efficient and Effective Feature Space Exploration for Testing Deep Learning Systems**  
   Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
   *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
+  [\[PDF\]](../assets/pdf/TOSEM2022.pdf)  
 
 * **SBST Tool Competition 2022**  
   Alessio Gambi, Gunel Jahangirova, Vincenzo Riccio, and Fiorella Zampetti   
   *In Proceedings of the IEEE/ACM 44th International Conference on Software Engineering Workshops (SBST@ICSE 2022)*  
+  [\[PDF\]](../assets/pdf/SBST2022.pdf)
 
 ## 2021
 
