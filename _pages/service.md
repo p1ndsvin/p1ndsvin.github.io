@@ -6,6 +6,7 @@ permalink: /service/
 
 ## Conferences
 ### PC Member
+* ICSE 2024 - NIER track  
 * ICSE 2024 - Demonstrations track
 * ESEM 2023 - Technical Papers track
 * ICSME 2023 - Research track
