@@ -8,6 +8,7 @@ permalink: /service/
 ### PC Member
 * ICSE 2024 - NIER track  
 * ICSE 2024 - Demonstrations track
+* ESEC/FSE 2023 - IVR track
 * ESEM 2023 - Technical Papers track
 * ICSME 2023 - Research track
 * ICST 2023 - Testing Tools track
