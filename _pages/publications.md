@@ -6,6 +6,11 @@ permalink: /publications/
 
 ## 2023
 
+* **SBFT Tool Competition 2023 - Cyber-Physical Systems Track**  
+  Matteo Biagiola, Stefan Klikovits, Jarkko Peltomaki, and Vincenzo Riccio   
+  *In Proceedings of the IEEE/ACM 45th International Conference on Software Engineering Workshops (SBST@ICSE 2023)*  
+  [\[PDF\]](../assets/pdf/SBFT_2023.pdf)
+
 * **When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study**  
   Vincenzo Riccio, Paolo Tonella  
   *In Proceedings of the 45th ACM/IEEE International Conference on Software Engineering (ICSE)*  
