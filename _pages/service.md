@@ -16,6 +16,7 @@ permalink: /service/
 * ICSE 2023 - NIER track
 * ICSE 2023 - Posters track
 * MOBILESoft 2023 - Research track
+* SCAM 2023 - NIER track
 * ANT 2023 - Systems Software Engineering track
 * ASE 2022 - Artifact Evaluation
 * MOBILESoft 2022 - Research track
@@ -88,6 +89,7 @@ permalink: /service/
 * Porte Aperte, Open Day @ Università degli Studi di Napoli "Federico II", 2017  
 
 ## Misc  
+* **PhD Dissertation Defense External Member** for Hazem Fahmy, University of Luxembourg, Luxembourg 
 * **PhD Thesis External Reviewer** for Jon Ayerdi, Mondragon University, Spain  
 * **Book proposal reviewer** for Springer - Computer Science Editorial  
 * **BSc Thesis Opponent** for Università di Udine, Italy. 
