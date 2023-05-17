@@ -5,6 +5,9 @@ permalink: /service/
 ---
 
 ## Conferences
+### Organizing Committee
+* SANER 2024 - Diversity, Inclusion and Newcomers co-chair  
+
 ### PC Member
 * ICSE 2024 - NIER track  
 * ICSE 2024 - Demonstrations track
