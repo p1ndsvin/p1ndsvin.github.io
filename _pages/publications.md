@@ -18,7 +18,7 @@ permalink: /publications/
 * **When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study**  
   Vincenzo Riccio, Paolo Tonella  
   *In Proceedings of the 45th ACM/IEEE International Conference on Software Engineering (ICSE)*  
-  [\[PDF\]](../assets/pdf/ICSE2023.pdf)
+  [\[PDF\]](../assets/pdf/ICSE2023.pdf) [\[slides\]](../assets/slides/riccio_icse_2023.pdf)
 
 ## 2022
 
