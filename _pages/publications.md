@@ -9,6 +9,7 @@ permalink: /publications/
 * **DeepAtash: Focused Test Generation for Deep Learning Systems**  
   Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
   *In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)*  
+   [\[PDF\]](../assets/pdf/deepatash_issta23.pdf)
   
 * **SBFT Tool Competition 2023 - Cyber-Physical Systems Track**  
   Matteo Biagiola, Stefan Klikovits, Jarkko Peltomaki, and Vincenzo Riccio   
