@@ -72,7 +72,7 @@ permalink: /service/
 * **Tahereh Zohdinasab**, thesis title: "Explaining Misbehaviours of Deep Learning-Based Systems", ongoing
 
 ### M.Sc. Theses
-* **Lodovico Azzini**, 2022
+* **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", 2022
 * **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", 2021
 * **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", 2017
 
