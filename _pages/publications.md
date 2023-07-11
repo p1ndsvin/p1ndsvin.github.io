@@ -25,17 +25,17 @@ permalink: /publications/
   *In Proceedings of the 45th ACM/IEEE International Conference on Software Engineering (ICSE)*  
   [\[PDF\]](../assets/pdf/ICSE2023.pdf) [\[slides\]](../assets/slides/riccio_icse_2023.pdf)
 
+* **Efficient and Effective Feature Space Exploration for Testing Deep Learning Systems**  
+  Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
+  *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
+  [\[PDF\]](../assets/pdf/TOSEM2022.pdf)    
+
 ## 2022
 
 * **Does Road Diversity Really Matter in Testing Automated Driving Systems? -- A Registered Report**  
   Stefan Klikovits, Vincenzo Riccio, Ezequiel Castellano, Ahmet Cetinkaya, Alessio Gambi, Paolo Arcaini  
-  *In Proceedings of the 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*  
+  * Presented at the 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*  
   [\[PDF\]](../assets/pdf/esem2022.pdf) [\[slides\]](../assets/slides/ESEM_2022_slides_short.pdf)  
-
-* **Efficient and Effective Feature Space Exploration for Testing Deep Learning Systems**  
-  Tahereh Zohdinasab, Vincenzo Riccio, Alessio Gambi, and Paolo Tonella  
-  *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
-  [\[PDF\]](../assets/pdf/TOSEM2022.pdf)  
 
 * **SBST Tool Competition 2022**  
   Alessio Gambi, Gunel Jahangirova, Vincenzo Riccio, and Fiorella Zampetti   
