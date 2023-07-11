@@ -98,4 +98,3 @@ permalink: /service/
 * **PhD Dissertation Defense External Member** for Hazem Fahmy, University of Luxembourg, Luxembourg 
 * **PhD Thesis External Reviewer** for Jon Ayerdi, Mondragon University, Spain  
 * **Book proposal reviewer** for Springer - Computer Science Editorial  
-* **BSc Thesis Opponent** for Università di Udine, Italy. 
