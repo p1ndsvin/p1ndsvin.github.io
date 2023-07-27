@@ -10,6 +10,7 @@ permalink: /service/
 
 ### PC Member
 * ESEC/FSE 2024 - Research Papers track
+* ICST 2024 - Research Papers track
 * SANER 2024 - Research Papers track
 * ICSE 2024 - NIER track  
 * ICSE 2024 - Demonstrations track
