@@ -65,6 +65,7 @@ permalink: /service/
 * PeerJ Computer Science
 
 ### Guest Editor
+* [Innovations in Software System Testing with Deep Learning](https://emsejournal.github.io/special_issues/2023_Innovations_in_Software_System_Testing_with_Deep_Learning.html) - EMSE Special Issue
 * [Software Testing in the Machine Learning Era](https://emsejournal.github.io/special_issues/2021_Software_Testing_in_the_Machine_Learning_Era.html) - EMSE Special Issue
 * [Search-based Software Testing ](https://onlinelibrary.wiley.com/pb-assets/assets/20477481/Special%20Issue%20on%20Search-based%20software%20testing-1637849907903.pdf) - JSEP Special Issue
 * [SBST’22: Search-Based Software Engineering – Tools](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/102JKDZ8BMS) - SCICO Special Issue
