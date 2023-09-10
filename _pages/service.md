@@ -56,6 +56,7 @@ permalink: /service/
 * ACM Transactions on Software Engineering and Methodology
 * IEEE Transactions on Software Engineering
 * Empirical Software Engineering
+* IEEE Transactions on Intelligent Vehicles
 * IEEE Transactions on Reliability
 * Journal of Systems and Software
 * Software Testing, Verification and Reliability
