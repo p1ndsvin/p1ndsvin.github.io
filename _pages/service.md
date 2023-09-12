@@ -12,6 +12,7 @@ permalink: /service/
 * ESEC/FSE 2024 - Research Papers track
 * ICST 2024 - Research Papers track
 * SANER 2024 - Research Papers track
+* SANER 2024 - Short Papers and Posters track
 * ICSE 2024 - NIER track  
 * ICSE 2024 - Demonstrations track
 * SSBSE 2023 - Research track  
