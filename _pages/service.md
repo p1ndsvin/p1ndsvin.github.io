@@ -62,6 +62,7 @@ permalink: /service/
 * Software Testing, Verification and Reliability
 * Journal of Software: Evolution and Process
 * Science of Computer Programming
+* Software Quality Journal
 * IEEE Access
 * PeerJ Computer Science
 
