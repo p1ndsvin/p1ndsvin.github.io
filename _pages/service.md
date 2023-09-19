@@ -76,6 +76,7 @@ permalink: /service/
 ## Advisorship
 
 ### Ph.D. Theses
+* **Maryam**, thesis title: "Integrating Deep Learning and Software Engineering", ongoing  
 * **Tahereh Zohdinasab**, thesis title: "Explaining Misbehaviours of Deep Learning-Based Systems", ongoing
 
 ### M.Sc. Theses
@@ -101,7 +102,10 @@ permalink: /service/
 ### Tutor
 * Porte Aperte, Open Day @ Università degli Studi di Napoli "Federico II", 2017  
 
+## Committees  
+* **MSc Dissertation Defense External Member** for Paulo Nunes, UFPE, Brazil, 2023  
+* **PhD Dissertation Defense External Member** for Hazem Fahmy, University of Luxembourg, Luxembourg, 2023  
+* **PhD Thesis External Reviewer** for Jon Ayerdi, Mondragon University, Spain, 2022  
+
 ## Misc  
-* **PhD Dissertation Defense External Member** for Hazem Fahmy, University of Luxembourg, Luxembourg 
-* **PhD Thesis External Reviewer** for Jon Ayerdi, Mondragon University, Spain  
 * **Book proposal reviewer** for Springer - Computer Science Editorial  
