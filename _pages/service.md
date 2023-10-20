@@ -13,6 +13,7 @@ permalink: /service/
 * ICST 2024 - Research Papers track
 * SANER 2024 - Research Papers track
 * SANER 2024 - Short Papers and Posters track
+* ICSME 2024 - Research track
 * ICSE 2024 - NIER track  
 * ICSE 2024 - Demonstrations track
 * MSR 2024 - Data and Tool Showcase track   
