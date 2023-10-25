@@ -8,7 +8,7 @@ permalink: /publications/
 * **An Empirical Study on Low- and High-Level Explanations of Deep Learning Misbehaviours**  
   Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
   *In Proceedings of the 17th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2023)*
-   [\[PDF\]](../assets/pdf/ESEM2023.pdf)  
+   [\[PDF\]](../assets/pdf/ESEM2023.pdf) [\[slides\]](../assets/slides/esem2023_nola.pdf) 
 
 * **DeepAtash: Focused Test Generation for Deep Learning Systems**  
   Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
