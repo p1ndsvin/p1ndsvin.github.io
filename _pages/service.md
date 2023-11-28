@@ -10,13 +10,15 @@ permalink: /service/
 
 ### PC Member
 * ESEC/FSE 2024 - Research Papers track
+* ASE 2024 - Research Papers track
 * ICST 2024 - Research Papers track
 * SANER 2024 - Research Papers track
 * SANER 2024 - Short Papers and Posters track
 * ICSME 2024 - Research track
 * ICSE 2024 - NIER track  
 * ICSE 2024 - Demonstrations track
-* MSR 2024 - Data and Tool Showcase track   
+* MSR 2024 - Data and Tool Showcase track
+* EASE 2024 - Posters track  
 * SSBSE 2023 - Research track  
 * ESEC/FSE 2023 - IVR track
 * ESEM 2023 - Technical Papers track
