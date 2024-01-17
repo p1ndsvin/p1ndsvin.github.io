@@ -6,7 +6,8 @@ permalink: /service/
 
 ## Conferences
 ### Organizing Committee
-* SANER 2024 - Diversity, Inclusion and Newcomers co-chair  
+* SANER 2024 - Diversity, Inclusion and Newcomers co-chair
+* SSBSE 2024 - Hot off the Press chair  
 
 ### PC Member
 * ESEC/FSE 2024 - Research Papers track
@@ -91,6 +92,9 @@ permalink: /service/
 * **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", 2022
 * **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", 2021
 * **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", 2017
+
+### B.Sc. Theses
+* **Dario Simone**, **Stefano Monte**
 
 ### Internships
 * **Simone Giacomelli, Nelson Brochado**, project title: "Extreme Testing of Self-Driving Cars", 2019
