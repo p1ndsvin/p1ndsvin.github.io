@@ -11,8 +11,9 @@ permalink: /service/
 
 ### PC Member
 * ESEC/FSE 2024 - Research Papers track
-* ASE 2024 - Research Papers track
 * ISSTA 2024 - Technical Papers track
+* ESEM 2024 - Technical Papers track
+* ASE 2024 - Research Papers track
 * ICST 2024 - Research Papers track
 * ICST 2024 - Testing tools and Demo track
 * ICSME 2024 - Research track
