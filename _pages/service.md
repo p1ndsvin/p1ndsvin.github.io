@@ -43,14 +43,11 @@ permalink: /service/
 
 ## Workshops
 ### Program Co-Organizer
-* DeepTest@ICSE 2023  
-* DeepTest@ICSE 2021
-* DeepTest@ICSE 2020
+* SBFT@ICSE 2024 
+* DeepTest@ICSE 2020, 2021, 2023, 2024  
 
 ### Tool Competition Co-Organizer
-* SBFT@ICSE 2023 
-* SBST@ICSE 2022
-* SBST@ICSE 2021
+* SBFT@ICSE 2021, 2022, 2023 
 
 ### PC Member
 * AIST@ICST 2024  
