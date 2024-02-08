@@ -23,7 +23,8 @@ permalink: /service/
 * ICSE 2024 - Demonstrations track
 * MSR 2024 - Data and Tool Showcase track
 * EASE 2024 - Posters track
-* FORGE 2024  
+* FORGE 2024
+* QUATIC 2024 - “Quality in the Age of AI” Thematic Track  
 * SSBSE 2023 - Research track  
 * ESEC/FSE 2023 - IVR track
 * ESEM 2023 - Technical Papers track
