@@ -3,6 +3,10 @@ layout: single
 title: "Publications"
 permalink: /publications/
 ---
+## 2024
+* **Two is Better Than One: Digital Siblings to Improve Autonomous Driving Testing**  
+  Matteo Biagiola, Andrea Stocco, Vincenzo Riccio, and Paolo Tonella  
+  *Empirical Software Engineering (EMSE)*
 
 ## 2023
 * **An Empirical Study on Low- and High-Level Explanations of Deep Learning Misbehaviours**  
