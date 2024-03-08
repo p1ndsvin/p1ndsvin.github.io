@@ -16,6 +16,7 @@ permalink: /service/
 * ASE 2024 - Research Papers track
 * ICST 2024 - Research Papers track
 * ICST 2024 - Testing tools and Demo track
+* ISSRE 2024 - Research Papers track
 * ICSME 2024 - Research track
 * SANER 2024 - Research Papers track
 * SANER 2024 - Short Papers and Posters track
