@@ -6,10 +6,12 @@ permalink: /service/
 
 ## Conferences
 ### Organizing Committee
+* ICST 2025 - Finance co-chair
 * SANER 2024 - Diversity, Inclusion and Newcomers co-chair
 * SSBSE 2024 - Hot off the Press chair  
 
 ### PC Member
+* ISSTA 2025 - Technical Papers track
 * ESEC/FSE 2024 - Research Papers track
 * ISSTA 2024 - Technical Papers track
 * ESEM 2024 - Technical Papers track
