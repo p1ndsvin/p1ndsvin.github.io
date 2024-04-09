@@ -86,7 +86,7 @@ permalink: /service/
 
 ### Ph.D. Theses
 * **Maryam**, thesis title: "Integrating Deep Learning and Software Engineering", ongoing  
-* **Tahereh Zohdinasab**, thesis title: "Explaining Misbehaviours of Deep Learning-Based Systems", ongoing
+* **Tahereh Zohdinasab**, thesis title: "Exposing and Explaining Misbehaviours of Deep Learning Systems", 2024
 
 ### M.Sc. Theses
 * **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", 2022
