@@ -4,9 +4,13 @@ title: "Publications"
 permalink: /publications/
 ---
 ## 2024
+* **Focused Test Generation for Autonomous Driving Systems**  
+   Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
+  *ACM Transactions on Software Engineering and Methodology (TOSEM) [In Press]*
+
 * **Two is Better Than One: Digital Siblings to Improve Autonomous Driving Testing**  
   Matteo Biagiola, Andrea Stocco, Vincenzo Riccio, and Paolo Tonella  
-  *Empirical Software Engineering (EMSE)*
+  *Empirical Software Engineering (EMSE) [In Press]*
 
 ## 2023
 * **An Empirical Study on Low- and High-Level Explanations of Deep Learning Misbehaviours**  
