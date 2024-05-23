@@ -27,6 +27,7 @@ permalink: /service/
 * MSR 2024 - Data and Tool Showcase track
 * EASE 2024 - Posters track
 * FORGE 2024
+* ICTSS 2024 - Research Papers track
 * SCAM 2024 - NIER track
 * QUATIC 2024 - “Quality in the Age of AI” Thematic Track  
 * SSBSE 2023 - Research track  
