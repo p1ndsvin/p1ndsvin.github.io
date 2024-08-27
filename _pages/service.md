@@ -12,6 +12,8 @@ permalink: /service/
 
 ### PC Member
 * ISSTA 2025 - Technical Papers track
+* SANER 2025 - Short Papers and Posters track
+* MSR 2025 - Data and Tool Showcase track
 * ESEC/FSE 2024 - Research Papers track
 * ISSTA 2024 - Technical Papers track
 * ESEM 2024 - Technical Papers track
