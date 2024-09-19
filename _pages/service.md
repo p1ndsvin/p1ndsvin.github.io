@@ -31,7 +31,8 @@ permalink: /service/
 * FORGE 2024
 * ICTSS 2024 - Research Papers track
 * SCAM 2024 - NIER track
-* QUATIC 2024 - “Quality in the Age of AI” Thematic Track  
+* QUATIC 2024 - “Quality in the Age of AI” Thematic Track
+* SOICT 2024 - 
 * SSBSE 2023 - Research track  
 * ESEC/FSE 2023 - IVR track
 * ESEM 2023 - Technical Papers track
@@ -51,7 +52,7 @@ permalink: /service/
 
 ## Workshops
 ### Program Co-Organizer
-* SBFT@ICSE 2024 
+* SBFT@ICSE 2024, 2025 
 * DeepTest@ICSE 2020, 2021, 2023, 2024  
 
 ### Tool Competition Co-Organizer
