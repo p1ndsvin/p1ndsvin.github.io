@@ -60,6 +60,7 @@ permalink: /service/
 * SBFT@ICSE 2021, 2022, 2023 
 
 ### PC Member
+* AIST@ICST 2025 
 * AIST@ICST 2024  
 * ReSAISE@ISSRE 2023
 * ENIAC@SPLASH 2023  
