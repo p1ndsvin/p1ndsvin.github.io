@@ -11,6 +11,7 @@ permalink: /service/
 * SSBSE 2024 - Hot Off the Press co-chair  
 
 ### PC Member
+* ICSE 2026 - Research track
 * ISSTA 2025 - Technical Papers track
 * SANER 2025 - Short Papers and Posters track
 * MSR 2025 - Data and Tool Showcase track
