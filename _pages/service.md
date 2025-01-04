@@ -6,6 +6,7 @@ permalink: /service/
 
 ## Conferences
 ### Organizing Committee
+* ASE 2025 - Doctoral Symposium co-chair
 * ICST 2025 - Finance co-chair
 * SANER 2024 - Diversity, Inclusion and Newcomers co-chair
 * SSBSE 2024 - Hot Off the Press co-chair  
