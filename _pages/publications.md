@@ -9,6 +9,11 @@ permalink: /publications/
   *In Proceedings of the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025)*  
   [\[PDF\]](../assets/pdf/ICST2025.pdf)
 
+* **OWSM: Empowering Rego for Stateful Access Control**  
+   Massimiliano Baldo, Fabio Ionut Ion, Marino Miculan, Matteo Paier, and Vincenzo Riccio  
+  *In Proceedings of the Italian Conference on CyberSecurity (ITASEC 2025)*  
+  [\[PDF\]](../assets/pdf/itasec25.pdf)
+
 ## 2024
 * **Focused Test Generation for Autonomous Driving Systems**  
    Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
