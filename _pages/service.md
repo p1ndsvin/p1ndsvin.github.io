@@ -102,12 +102,13 @@ permalink: /service/
 * **Tahereh Zohdinasab**, thesis title: "Exposing and Explaining Misbehaviours of Deep Learning Systems", 2024
 
 ### M.Sc. Theses
-* **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", 2022
-* **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", 2021
-* **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", 2017
+* **Francesco Pinzauti**, co-advised with Marino Miculan, 2024
+* **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2022
+* **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2021
+* **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", co-advised with Anna Rita Fasolino and Domenico Amalfitano, 2017
 
 ### B.Sc. Theses
-* **Dario Simone**, **Stefano Monte**
+* **Dario Simone**, **Stefano Monte**, **Lorenzo Biribin**, **Lorenzo Basoc**, **Oliver Stevanovic**, **Gabriele Saba**, **Gaia Simeoni**, **Giacomo Zampieri**, **Gianluca Fabris**, **Matteo Blonda**, **Iury Fior**, **Alessandro Gerotto**, **Alberto Movio**, **Nicolò Pettarin**, **Federica Zamparo**, **Nicola Revelant**
 
 ### Internships
 * **Simone Giacomelli, Nelson Brochado**, project title: "Extreme Testing of Self-Driving Cars", 2019
