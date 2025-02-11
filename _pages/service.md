@@ -13,6 +13,7 @@ permalink: /service/
 
 ### PC Member
 * ICSE 2026 - Research track
+* ASE 2025 - Research Papers track
 * ISSTA 2025 - Technical Papers track
 * ESEM 2025 - Technical Papers track
 * SANER 2025 - Short Papers and Posters track
