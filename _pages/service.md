@@ -19,6 +19,7 @@ permalink: /service/
 * SANER 2025 - Short Papers and Posters track
 * MSR 2025 - Data and Tool Showcase track
 * EASE 2025 - Posters and Vision Track PC
+* ISSRE 2025 - Research Track
 * FORGE 2025
 * ESEC/FSE 2024 - Research Papers track
 * ISSTA 2024 - Technical Papers track
