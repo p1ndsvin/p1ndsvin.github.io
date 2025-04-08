@@ -76,6 +76,8 @@ permalink: /service/
 * DevOps4CPS-Testing@ICST 2021
 
 ## Journals
+### Editorial Board Member
+[Empirical Software Engineering](https://www.springer.com/journal/10664). Please, consider submitting us your amazing research :)
 
 ### Reviewer
 * ACM Transactions on Software Engineering and Methodology
