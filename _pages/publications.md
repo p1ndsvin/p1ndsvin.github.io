@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 ---
 ## 2025
+* **An Industrial Experience Report on Applying Search-based Boundary Input Generation to Cyber-Physical Systems**  
+   Pablo Valle, Vincenzo Riccio, Aitor Arrieta, Paolo Tonella, and Maite Arratibel  
+  *Empirical Software Engineering (EMSE)*  
+  
 * **Benchmarking Generative AI Models for Deep Learning Test Input Generation**  
    Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
   *In Proceedings of the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025)*  
