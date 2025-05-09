@@ -102,8 +102,9 @@ permalink: /service/
 ## Advisorship
 
 ### Ph.D. Theses
-* **Maryam**, thesis title: "Integrating Deep Learning and Software Engineering", ongoing  
-* **Tahereh Zohdinasab**, thesis title: "Exposing and Explaining Misbehaviours of Deep Learning Systems", 2024
+* **Maryam Maryam**, thesis title: "Integrating Deep Learning and Software Engineering", ongoing
+* **Michele Lizzit**, thesis title: "Advancing Static Analysis Techniques through Language Model Enhancements", ongoing, co-supervised with Marino Miculan  
+* **Tahereh Zohdinasab**, thesis title: "Exposing and Explaining Misbehaviours of Deep Learning Systems", 2024, co-supervised with Paolo Tonella
 
 ### M.Sc. Theses
 * **Francesco Pinzauti**, co-advised with Marino Miculan, 2024
