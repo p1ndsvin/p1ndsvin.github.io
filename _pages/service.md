@@ -8,6 +8,7 @@ permalink: /service/
 ### Organizing Committee
 * ASE 2025 - Student Volunteers co-chair
 * ICST 2025 - Finance co-chair
+* SSBSE 2025 - Challenge track co-chair
 * SANER 2024 - Diversity, Inclusion and Newcomers co-chair
 * SSBSE 2024 - Hot Off the Press co-chair  
 
