@@ -12,7 +12,7 @@ permalink: /publications/
    Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
   *In Proceedings of the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025)*  
   🏆 Best Paper Award 🏆  
-  [\[PDF\]](../assets/pdf/ICST2025.pdf) [\[slides\]](../assets/pdf/maryam_icst_2025.pdf) 
+  [\[PDF\]](../assets/pdf/ICST2025.pdf) [\[slides\]](../assets/slides/maryam_icst_2025.pdf) 
 
 * **OWSM: Empowering Rego for Stateful Access Control**  
    Massimiliano Baldo, Fabio Ionut Ion, Marino Miculan, Matteo Paier, and Vincenzo Riccio  
