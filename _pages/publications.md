@@ -99,8 +99,8 @@ permalink: /publications/
 
 * **Taxonomy of Real Faults in Deep Learning Systems**  
   Nargiz Humbatova, Gunel Jahangirova, Gabriele Bavota, Vincenzo Riccio, Andrea Stocco, and Paolo Tonella  
-  *In Proceedings of 42nd International Conference on Software Engineering (ICSE 2020)*
-  🌟 Best Artifact Award 🌟
+  *In Proceedings of 42nd International Conference on Software Engineering (ICSE 2020)*  
+  🌟 Best Artifact Award 🌟  
   [\[PDF\]](../assets/pdf/ICSE2019.pdf)
 
 * **Do Memories Haunt You? An Automated Black Box Testing Approach for Detecting Memory Leaks in Android Apps**   
