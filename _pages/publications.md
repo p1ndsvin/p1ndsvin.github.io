@@ -7,6 +7,8 @@ permalink: /publications/
 * **An Industrial Experience Report on Applying Search-based Boundary Input Generation to Cyber-Physical Systems**  
    Pablo Valle, Vincenzo Riccio, Aitor Arrieta, Paolo Tonella, and Maite Arratibel  
   *Empirical Software Engineering (EMSE)*  
+  DOI: 10.1007/s10664-025-10670-w  
+  [\[PDF\]](../assets/pdf/EMSE_LIFTJANUS.pdf)  
   
 * **Benchmarking Generative AI Models for Deep Learning Test Input Generation**  
    Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
