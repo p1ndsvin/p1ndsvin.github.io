@@ -11,7 +11,8 @@ permalink: /publications/
 * **Benchmarking Generative AI Models for Deep Learning Test Input Generation**  
    Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
   *In Proceedings of the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025)*  
-  [\[PDF\]](../assets/pdf/ICST2025.pdf)
+  🏆 Best Paper Award 🏆  
+  [\[PDF\]](../assets/pdf/ICST2025.pdf) [\[slides\]](../assets/pdf/maryam_icst_2025.pdf) 
 
 * **OWSM: Empowering Rego for Stateful Access Control**  
    Massimiliano Baldo, Fabio Ionut Ion, Marino Miculan, Matteo Paier, and Vincenzo Riccio  
@@ -98,7 +99,8 @@ permalink: /publications/
 
 * **Taxonomy of Real Faults in Deep Learning Systems**  
   Nargiz Humbatova, Gunel Jahangirova, Gabriele Bavota, Vincenzo Riccio, Andrea Stocco, and Paolo Tonella  
-  *In Proceedings of 42nd International Conference on Software Engineering (ICSE 2020)*  
+  *In Proceedings of 42nd International Conference on Software Engineering (ICSE 2020)*
+  🌟 Best Artifact Award 🌟
   [\[PDF\]](../assets/pdf/ICSE2019.pdf)
 
 * **Do Memories Haunt You? An Automated Black Box Testing Approach for Detecting Memory Leaks in Android Apps**   
