@@ -14,6 +14,7 @@ permalink: /service/
 
 ### PC Member
 * ICSE 2026 - Research track
+* ISSTA 2026 - Technical Papers track
 * FORGE 2026
 * MSR 2026 - Data and Tool Showcase Track
 * ASE 2025 - Research Papers track
@@ -21,6 +22,7 @@ permalink: /service/
 * ESEM 2025 - Technical Papers track
 * SANER 2025 - Short Papers and Posters track
 * MSR 2025 - Data and Tool Showcase track
+* SSBSE 2025 - RENE/NIER track
 * EASE 2025 - Posters and Vision Track PC
 * ISSRE 2025 - Research Track
 * FORGE 2025
