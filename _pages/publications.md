@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 ---
 ## 2025
+* **Targeted Deep Learning System Boundary Testing**  
+   Weißl, Abdellatif, Chen, Merabishvili, Riccio, Kacianka, and Stocco  
+  *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
+ 
 * **An Industrial Experience Report on Applying Search-based Boundary Input Generation to Cyber-Physical Systems**  
    Pablo Valle, Vincenzo Riccio, Aitor Arrieta, Paolo Tonella, and Maite Arratibel  
   *Empirical Software Engineering (EMSE)*  
@@ -11,7 +15,7 @@ permalink: /publications/
   [\[PDF\]](../assets/pdf/EMSE_LIFTJANUS.pdf)  
   
 * **Benchmarking Generative AI Models for Deep Learning Test Input Generation**  
-   Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
+  Maryam Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
   *In Proceedings of the 18th IEEE International Conference on Software Testing, Verification and Validation (ICST 2025)*  
   🏆 Best Paper Award 🏆  
   [\[PDF\]](../assets/pdf/ICST2025.pdf) [\[slides\]](../assets/slides/maryam_icst_2025.pdf) 
@@ -24,7 +28,7 @@ permalink: /publications/
 ## 2024
 * **Focused Test Generation for Autonomous Driving Systems**  
    Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
-  *ACM Transactions on Software Engineering and Methodology (TOSEM 2024)*  
+  *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
   [\[PDF\]](../assets/pdf/TOSEM2024.pdf)
 
 * **Two is Better Than One: Digital Siblings to Improve Autonomous Driving Testing**  
