@@ -26,6 +26,7 @@ permalink: /service/
 * EASE 2025 - Posters and Vision Track PC
 * ISSRE 2025 - Research Track
 * FORGE 2025
+* SOICT 2025
 * ESEC/FSE 2024 - Research Papers track
 * ISSTA 2024 - Technical Papers track
 * ESEM 2024 - Technical Papers track
@@ -45,7 +46,7 @@ permalink: /service/
 * ICTSS 2024 - Research Papers track
 * SCAM 2024 - NIER track
 * QUATIC 2024 - “Quality in the Age of AI” Thematic Track
-* SOICT 2024 - 
+* SOICT 2024
 * SSBSE 2023 - Research track  
 * ESEC/FSE 2023 - IVR track
 * ESEM 2023 - Technical Papers track
@@ -122,7 +123,7 @@ permalink: /service/
 ### B.Sc. Theses
 * 2023: **Dario Simone**, **Stefano Monte**
 * 2024: **Lorenzo Biribin**, **Lorenzo Basoc**, **Oliver Stevanovic**, **Gabriele Saba**, **Gaia Simeoni**, **Giacomo Zampieri**, **Gianluca Fabris**, **Matteo Blonda**, **Iury Fior**, **Alessandro Gerotto**, **Alberto Movio**, **Nicolò Pettarin**, **Federica Zamparo**, **Nicola Revelant**
-* 2025: **Lorenzo Campo**, **Federico Del Bello**, **Thomas Omiciuolo**, **Jessica Tavano**
+* 2025: **Lorenzo Campo**, **Federico Del Bello**, **Federico Magnabosco**, **Thomas Omiciuolo**, **Filippo Salvatore Sturniolo**, **Jessica Tavano**
 
 ### Internships
 * **Simone Giacomelli, Nelson Brochado**, project title: "Extreme Testing of Self-Driving Cars", 2019
