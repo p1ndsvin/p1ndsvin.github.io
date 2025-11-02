@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: " "
-email: vincenzo.riccio@usi.ch
+email: vincenzo.riccio@uniud.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Vincenzo Riccio - Assistant Professor @ UniUd - Software Engineering Research
+  Vincenzo Riccio - Associate Professor @ UniUd - Software Engineering Research
 url: "https://p1ndsvin.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: p1ndsvin
@@ -30,9 +30,6 @@ github_username:  p1ndsvin
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter fa-3x"
-      url: "https://twitter.com/p1ndsvin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-3x"
       url: "https://github.com/p1ndsvin"
@@ -43,15 +40,12 @@ footer:
 author:
   name: "Vincenzo Riccio"
   #avatar: "/assets/images/Riccio.jpg"
-  bio: "Assistant Professor @ UniUd" # Note: Markdown is allowed
+  bio: "Associate Professor @ UniUd" # Note: Markdown is allowed
   location: "Udine, Italy"
   links:
     #- label: "Made Mistakes"
     #  icon: ""
     #  url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/p1ndsvin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/p1ndsvin"
