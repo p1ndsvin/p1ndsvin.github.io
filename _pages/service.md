@@ -18,7 +18,7 @@ permalink: /service/
 * ICST 2026 - Research track
 * FORGE 2026
 * MSR 2026 - Data and Tool Showcase Track
-* ASE 2025 - Research Papers track
+* ASE 2025 - Research Papers track 🏆 Best Reviewer Award 🏆 
 * ISSTA 2025 - Technical Papers track
 * ESEM 2025 - Technical Papers track
 * SANER 2025 - Short Papers and Posters track
@@ -35,7 +35,7 @@ permalink: /service/
 * ICST 2024 - Research Papers track
 * ICST 2024 - Testing tools and Demo track
 * ISSRE 2024 - Research Papers track
-* ICSME 2024 - Research track
+* ICSME 2024 - Research track 🏆 Best Reviewer Award 🏆
 * SANER 2024 - Research Papers track
 * SSBSE 2024 - Research track 
 * SANER 2024 - Short Papers and Posters track
@@ -88,8 +88,8 @@ permalink: /service/
 [Empirical Software Engineering](https://www.springer.com/journal/10664). Please, consider submitting us your amazing research :)
 
 ### Reviewer
-* ACM Transactions on Software Engineering and Methodology
-* IEEE Transactions on Software Engineering
+* ACM Transactions on Software Engineering and Methodology 🏆 Distinguished Reviewer 2023; Member of Distinguished Reviewers Board 🏆
+* IEEE Transactions on Software Engineering 🏆 Distinguished Reviewer 2023 🏆
 * Empirical Software Engineering
 * IEEE Transactions on Intelligent Vehicles
 * IEEE Transactions on Reliability
