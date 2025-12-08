@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 ---
 ## 2025
+* **XMutant: XAI-based Fuzzing for Deep Learning Systems**  
+   Xingcheng Chen, Matteo Biagiola, Vincenzo Riccio, Marcelo d'Amorim, Andrea Stocco  
+  *Empirical Software Engineering (EMSE)*  
+
 * **DevOps Testing for Cyber-physical Systems**  
    Mattia Fazzini, Alessio Gambi, Vincenzo Riccio, Annibale Panichella, and Stefan Klikovits  
   *Chapter of the book "Roadmap for DevOps in Cyber-Physical Systems: Challenges and Future Directions", Springer Nature, edited by Sebastiano Panichella, Paolo Arcaini, Myra Cohen, Aitor Arrieta*  
