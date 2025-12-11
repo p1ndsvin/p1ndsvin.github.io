@@ -124,7 +124,7 @@ permalink: /service/
 ### B.Sc. Theses
 * 2023: **Dario Simone**, **Stefano Monte**
 * 2024: **Lorenzo Biribin**, **Lorenzo Basoc**, **Oliver Stevanovic**, **Gabriele Saba**, **Gaia Simeoni**, **Giacomo Zampieri**, **Gianluca Fabris**, **Matteo Blonda**, **Iury Fior**, **Alessandro Gerotto**, **Alberto Movio**, **Nicolò Pettarin**, **Federica Zamparo**, **Nicola Revelant**
-* 2025: **Lorenzo Campo**, **Federico Del Bello**, **Federico Magnabosco**, **Thomas Omiciuolo**, **Filippo Salvatore Sturniolo**, **Jessica Tavano**
+* 2025: **Lorenzo Campo**, **Federico Del Bello**, **Federico Salvatore Delia**, **Federico Magnabosco**, **Thomas Omiciuolo**, **Filippo Salvatore Sturniolo**, **Jessica Tavano**
 
 ### Internships
 * **Simone Giacomelli, Nelson Brochado**, project title: "Extreme Testing of Self-Driving Cars", 2019
