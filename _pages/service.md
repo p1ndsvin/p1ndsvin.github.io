@@ -14,6 +14,7 @@ permalink: /service/
 
 ### PC Member
 * ICSE 2026 - Research track
+* ASE 2026 - Research Papers track
 * ISSTA 2026 - Technical Papers track
 * ICST 2026 - Research track
 * FORGE 2026
