@@ -3,6 +3,11 @@ layout: single
 title: "Publications"
 permalink: /publications/
 ---
+## 2026
+* **Automated Feature Extraction for Testing Deep Learning Systems through Illumination Search**  
+   Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
+  *Software Testing, Verification and Reliability (STVR)* 
+
 ## 2025
 * **XMutant: XAI-based Fuzzing for Deep Learning Systems**  
    Xingcheng Chen, Matteo Biagiola, Vincenzo Riccio, Marcelo d'Amorim, Andrea Stocco  
