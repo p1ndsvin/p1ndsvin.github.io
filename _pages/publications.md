@@ -6,7 +6,7 @@ permalink: /publications/
 ## 2026
 * **Automated Feature Extraction for Testing Deep Learning Systems through Illumination Search**  
    Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
-  *Software Testing, Verification and Reliability (STVR)*
+  *Software Testing, Verification and Reliability (STVR)*  
   [\[PDF\]](../assets/pdf/riccio_STVR26.pdf) 
 
 ## 2025
