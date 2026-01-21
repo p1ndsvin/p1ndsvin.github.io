@@ -12,7 +12,7 @@ permalink: /publications/
 ## 2025
 * **XMutant: XAI-based Fuzzing for Deep Learning Systems**  
    Xingcheng Chen, Matteo Biagiola, Vincenzo Riccio, Marcelo d'Amorim, Andrea Stocco  
-  *Empirical Software Engineering (EMSE)*
+  *Empirical Software Engineering (EMSE)*  
    [\[PDF\]](../assets/pdf/xmutant.pdf) 
 
 * **DevOps Testing for Cyber-physical Systems**  
