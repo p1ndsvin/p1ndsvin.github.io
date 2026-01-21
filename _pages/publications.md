@@ -20,7 +20,7 @@ permalink: /publications/
   *Chapter of the book "Roadmap for DevOps in Cyber-Physical Systems: Challenges and Future Directions", Springer Nature, edited by Sebastiano Panichella, Paolo Arcaini, Myra Cohen, Aitor Arrieta*  
 
 * **Targeted Deep Learning System Boundary Testing**  
-   Weißl, Abdellatif, Chen, Merabishvili, Riccio, Kacianka, and Stocco  
+   Oliver Weißl, Amr Abdellatif, Xingcheng Chen, Giorgi Merabishvili, Vincenzo Riccio, Severin Kacianka, and Andrea Stocco  
   *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
  
 * **An Industrial Experience Report on Applying Search-based Boundary Input Generation to Cyber-Physical Systems**  
