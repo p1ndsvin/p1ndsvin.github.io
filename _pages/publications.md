@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 ---
 ## 2026
+* **DevOps Testing for Cyber-physical Systems**  
+   Mattia Fazzini, Alessio Gambi, Vincenzo Riccio, Annibale Panichella, and Stefan Klikovits  
+  *Chapter of the book "Roadmap for DevOps in Cyber-Physical Systems: Challenges and Future Directions", Springer Nature, edited by Sebastiano Panichella, Paolo Arcaini, Myra Cohen, Aitor Arrieta*
+  DOI: 10.1007/978-981-95-1786-2_4
+  
 * **Automated Feature Extraction for Testing Deep Learning Systems through Illumination Search**  
    Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
   *Software Testing, Verification and Reliability (STVR)*  
@@ -14,10 +19,6 @@ permalink: /publications/
    Xingcheng Chen, Matteo Biagiola, Vincenzo Riccio, Marcelo d'Amorim, Andrea Stocco  
   *Empirical Software Engineering (EMSE)*  
    [\[PDF\]](../assets/pdf/xmutant.pdf) 
-
-* **DevOps Testing for Cyber-physical Systems**  
-   Mattia Fazzini, Alessio Gambi, Vincenzo Riccio, Annibale Panichella, and Stefan Klikovits  
-  *Chapter of the book "Roadmap for DevOps in Cyber-Physical Systems: Challenges and Future Directions", Springer Nature, edited by Sebastiano Panichella, Paolo Arcaini, Myra Cohen, Aitor Arrieta*  
 
 * **Targeted Deep Learning System Boundary Testing**  
    Oliver Weißl, Amr Abdellatif, Xingcheng Chen, Giorgi Merabishvili, Vincenzo Riccio, Severin Kacianka, and Andrea Stocco  
