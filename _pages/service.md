@@ -13,6 +13,7 @@ permalink: /service/
 * SSBSE 2024 - Hot Off the Press co-chair  
 
 ### PC Member
+* ICSE 2027 - Research track
 * ICSE 2026 - Research track
 * ASE 2026 - Research Papers track
 * ISSTA 2026 - Technical Papers track
