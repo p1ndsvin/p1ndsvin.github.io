@@ -7,6 +7,7 @@ permalink: /publications/
 * **DeepNaqqal: Human-Aligned Automated Validation of Test Inputs for Deep Learning.**  
   Maryam Maryam, Matteo Biagiola, Paolo Tonella, and Vincenzo Riccio  
   *In Proceedings of the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)*  
+    [\[PDF\]](../assets/pdf/DeepNaqqal_ICST2026.pdf) 
 
 * **DevOps Testing for Cyber-physical Systems**  
    Mattia Fazzini, Alessio Gambi, Vincenzo Riccio, Annibale Panichella, and Stefan Klikovits  
