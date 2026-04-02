@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 ---
 ## 2026
+* **XMutant: XAI-based Fuzzing for Deep Learning Systems**  
+   Xingcheng Chen, Matteo Biagiola, Vincenzo Riccio, Marcelo d'Amorim, Andrea Stocco  
+  *Empirical Software Engineering (EMSE)*  
+   [\[PDF\]](../assets/pdf/xmutant.pdf)
+  
 * **DeepNaqqal: Human-Aligned Automated Validation of Test Inputs for Deep Learning.**  
   Maryam Maryam, Matteo Biagiola, Paolo Tonella, and Vincenzo Riccio  
   *In Proceedings of the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)*  
@@ -20,11 +25,6 @@ permalink: /publications/
   [\[PDF\]](../assets/pdf/riccio_STVR26.pdf) 
 
 ## 2025
-* **XMutant: XAI-based Fuzzing for Deep Learning Systems**  
-   Xingcheng Chen, Matteo Biagiola, Vincenzo Riccio, Marcelo d'Amorim, Andrea Stocco  
-  *Empirical Software Engineering (EMSE)*  
-   [\[PDF\]](../assets/pdf/xmutant.pdf) 
-
 * **Targeted Deep Learning System Boundary Testing**  
    Oliver Weißl, Amr Abdellatif, Xingcheng Chen, Giorgi Merabishvili, Vincenzo Riccio, Severin Kacianka, and Andrea Stocco  
   *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
