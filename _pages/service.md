@@ -88,7 +88,10 @@ permalink: /service/
 
 ## Journals
 ### Editorial Board Member
-[Empirical Software Engineering](https://www.springer.com/journal/10664). Please, consider submitting us your amazing research :)
+[Empirical Software Engineering](https://www.springer.com/journal/10664). 
+[Software Engineering Nexus](https://www.sciencedirect.com/journal/software-engineering-nexus).
+
+Please, consider submitting us your amazing research :)
 
 ### Reviewer
 * ACM Transactions on Software Engineering and Methodology 🏆 Distinguished Reviewer 2023; Member of Distinguished Reviewers Board 🏆
