@@ -88,7 +88,7 @@ permalink: /service/
 
 ## Journals
 ### Editorial Board Member
-[Empirical Software Engineering](https://www.springer.com/journal/10664). 
+[Empirical Software Engineering](https://www.springer.com/journal/10664).  
 [Software Engineering Nexus](https://www.sciencedirect.com/journal/software-engineering-nexus).
 
 Please, consider submitting us your amazing research :)
