@@ -6,6 +6,7 @@ permalink: /service/
 
 ## Conferences
 ### Organizing Committee
+* ICST 2027 - Student Volunteers co-chair
 * ASE 2025 - Student Volunteers co-chair
 * ICST 2025 - Finance co-chair
 * SSBSE 2025 - Challenge track co-chair
@@ -14,6 +15,7 @@ permalink: /service/
 
 ### PC Member
 * ICSE 2027 - Research track
+* FSE 2027 - Research track
 * ICSE 2026 - Research track
 * ASE 2026 - Research Papers track
 * ISSTA 2026 - Technical Papers track
@@ -73,8 +75,9 @@ permalink: /service/
 * SBFT@ICSE 2024, 2025 
 * DeepTest@ICSE 2020, 2021, 2023, 2024  
 
-### Tool Competition Co-Organizer
-* SBFT@ICSE 2021, 2022, 2023 
+### Organizing Committee Member
+* SBFT@ICSE 2026 - Finance Chair
+* SBFT@ICSE 2021, 2022, 2023 - Tool Competition Co-Organizer
 
 ### PC Member
 * AIST@ICST 2025 
