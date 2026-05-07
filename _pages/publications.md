@@ -23,7 +23,11 @@ permalink: /publications/
 * **Automated Feature Extraction for Testing Deep Learning Systems through Illumination Search**  
    Tahereh Zohdinasab, Vincenzo Riccio, and Paolo Tonella  
   *Software Testing, Verification and Reliability (STVR)*  
-  [\[PDF\]](../assets/pdf/riccio_STVR26.pdf) 
+  [\[PDF\]](../assets/pdf/riccio_STVR26.pdf)
+
+* **GIFTbench: Generative Image Fuzz Testing Benchmark**  
+  Maryam Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
+  *Science of Computer Programming*  
 
 ## 2025
 * **Targeted Deep Learning System Boundary Testing**  
