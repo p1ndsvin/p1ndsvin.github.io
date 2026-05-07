@@ -28,6 +28,7 @@ permalink: /publications/
 * **GIFTbench: Generative Image Fuzz Testing Benchmark**  
   Maryam Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
   *Science of Computer Programming*  
+  [\[PDF\]](../assets/pdf/scp_giftbench.pdf) 
 
 ## 2025
 * **Targeted Deep Learning System Boundary Testing**  
