@@ -28,7 +28,11 @@ permalink: /publications/
 * **GIFTbench: Generative Image Fuzz Testing Benchmark**  
   Maryam Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
   *Science of Computer Programming*  
-  [\[PDF\]](../assets/pdf/scp_giftbench.pdf) 
+  [\[PDF\]](../assets/pdf/scp_giftbench.pdf)
+
+* **EagleSemble at the ICST 2026 Tool Competition – Self-Driving Car Testing Track**  
+  Cristian Aquilino, Ettore Ritacco, and Vincenzo Riccio   
+  [\[PDF\]](../assets/pdf/ICST_SDC_EagleSemble.pdf) 
 
 ## 2025
 * **Targeted Deep Learning System Boundary Testing**  
