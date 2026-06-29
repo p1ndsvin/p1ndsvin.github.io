@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 ## 2026
+* **Does Road Diversity Really Matter in Testing Automated Driving Systems?**  
+   Stefan Klikovits, Vincenzo Riccio, Ezequiel Castellano, Ahmet Cetinkaya, Alessio Gambi, Paolo Arcaini  
+  *Empirical Software Engineering (EMSE)*  
   
 * **DeepNaqqal: Human-Aligned Automated Validation of Test Inputs for Deep Learning.**  
   Maryam Maryam, Matteo Biagiola, Paolo Tonella, and Vincenzo Riccio  
