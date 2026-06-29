@@ -34,7 +34,8 @@ permalink: /publications/
   [\[PDF\]](../assets/pdf/scp_giftbench.pdf)
 
 * **EagleSemble at the ICST 2026 Tool Competition – Self-Driving Car Testing Track**  
-  Cristian Aquilino, Ettore Ritacco, and Vincenzo Riccio   
+  Cristian Aquilino, Ettore Ritacco, and Vincenzo Riccio  
+  🥈 2nd place at ICST 2026 Tool Competition – Self-Driving Car Testing Track 
   [\[PDF\]](../assets/pdf/ICST_SDC_EagleSemble.pdf) 
 
 ## 2025
