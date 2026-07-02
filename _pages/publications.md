@@ -6,7 +6,12 @@ permalink: /publications/
 ## 2026
 * **Does Road Diversity Really Matter in Testing Automated Driving Systems?**  
    Stefan Klikovits, Vincenzo Riccio, Ezequiel Castellano, Ahmet Cetinkaya, Alessio Gambi, Paolo Arcaini  
-  *Empirical Software Engineering (EMSE)*  
+  *Empirical Software Engineering (EMSE)*
+
+* **Targeted Deep Learning System Boundary Testing**  
+   Oliver Weißl, Amr Abdellatif, Xingcheng Chen, Giorgi Merabishvili, Vincenzo Riccio, Severin Kacianka, and Andrea Stocco  
+  *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
+  [\[PDF\]](../assets/pdf/weissl_tosem2026_.pdf)  
   
 * **DeepNaqqal: Human-Aligned Automated Validation of Test Inputs for Deep Learning.**  
   Maryam Maryam, Matteo Biagiola, Paolo Tonella, and Vincenzo Riccio  
@@ -38,11 +43,7 @@ permalink: /publications/
   🥈 2nd place at ICST 2026 Tool Competition – Self-Driving Car Testing Track 
   [\[PDF\]](../assets/pdf/ICST_SDC_EagleSemble.pdf) 
 
-## 2025
-* **Targeted Deep Learning System Boundary Testing**  
-   Oliver Weißl, Amr Abdellatif, Xingcheng Chen, Giorgi Merabishvili, Vincenzo Riccio, Severin Kacianka, and Andrea Stocco  
-  *ACM Transactions on Software Engineering and Methodology (TOSEM)*  
- 
+## 2025 
 * **An Industrial Experience Report on Applying Search-based Boundary Input Generation to Cyber-Physical Systems**  
    Pablo Valle, Vincenzo Riccio, Aitor Arrieta, Paolo Tonella, and Maite Arratibel  
   *Empirical Software Engineering (EMSE)*  
