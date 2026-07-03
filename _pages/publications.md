@@ -6,7 +6,8 @@ permalink: /publications/
 ## 2026
 * **Does Road Diversity Really Matter in Testing Automated Driving Systems?**  
    Stefan Klikovits, Vincenzo Riccio, Ezequiel Castellano, Ahmet Cetinkaya, Alessio Gambi, Paolo Arcaini  
-  *Empirical Software Engineering (EMSE)*
+  *Empirical Software Engineering (EMSE)*  
+  [\[Registered Report\]](../assets/pdf/esem2022.pdf) [\[slides\]](../assets/slides/ESEM_2022_slides_short.pdf) 
 
 * **Targeted Deep Learning System Boundary Testing**  
    Oliver Weißl, Amr Abdellatif, Xingcheng Chen, Giorgi Merabishvili, Vincenzo Riccio, Severin Kacianka, and Andrea Stocco  
@@ -99,11 +100,6 @@ permalink: /publications/
   [\[PDF\]](../assets/pdf/TOSEM2022.pdf)    
 
 ## 2022
-
-* **Does Road Diversity Really Matter in Testing Automated Driving Systems? -- A Registered Report**  
-  Stefan Klikovits, Vincenzo Riccio, Ezequiel Castellano, Ahmet Cetinkaya, Alessio Gambi, Paolo Arcaini  
-  *Presented at the 16th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*  
-  [\[PDF\]](../assets/pdf/esem2022.pdf) [\[slides\]](../assets/slides/ESEM_2022_slides_short.pdf)  
 
 * **SBST Tool Competition 2022**  
   Alessio Gambi, Gunel Jahangirova, Vincenzo Riccio, and Fiorella Zampetti   
