@@ -121,12 +121,13 @@ Please, consider submitting us your amazing research :)
 
 ### Ph.D. Theses
 * **Michele Lizzit**, thesis title: "Advancing Static Analysis Techniques through Language Model Enhancements", ongoing, co-supervised with Marino Miculan
-* **Maryam Maryam**, thesis title: "Generative AI Models and Automated Validators for Deep Learning Test Input Generation ​", 2026  
+* **Maryam Maryam**, thesis title: "Generative AI Models and Automated Validators for Deep Learning Test Input Generation", 2026  
 * **Tahereh Zohdinasab**, thesis title: "Exposing and Explaining Misbehaviours of Deep Learning Systems", 2024, co-supervised with Paolo Tonella
 
 ### M.Sc. Theses
+* **Oliver Stevanovic**, ongoing
 * **Riccardo Del Chin**, 2025
-* **Francesco Pinzauti**, co-advised with Marino Miculan, 2024
+* **Francesco Pinzauti**, thesis title: "An Empirical Assessment of Vulnerabilities of the CERN Internal Python ecosystem", co-advised with Marino Miculan, 2024
 * **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2022
 * **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2021
 * **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", co-advised with Anna Rita Fasolino and Domenico Amalfitano, 2017
