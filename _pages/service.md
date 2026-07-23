@@ -126,6 +126,7 @@ Please, consider submitting us your amazing research :)
 
 ### M.Sc. Theses
 * **Oliver Stevanovic**, ongoing
+* **Matteo Pittis**, ongoing
 * **Riccardo Del Chin**, 2025
 * **Francesco Pinzauti**, thesis title: "An Empirical Assessment of Vulnerabilities of the CERN Internal Python ecosystem", co-advised with Marino Miculan, 2024
 * **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2022
