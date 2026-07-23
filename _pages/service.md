@@ -124,7 +124,7 @@ Please, consider submitting us your amazing research :)
 * **Maryam Maryam**, thesis title: "Generative AI Models and Automated Validators for Deep Learning Test Input Generation", 2026  
 * **Tahereh Zohdinasab**, thesis title: "Exposing and Explaining Misbehaviours of Deep Learning Systems", 2024, co-supervised with Paolo Tonella
 
-### M.Sc. Theses
+### 7 M.Sc. Theses
 * **Oliver Stevanovic**, ongoing
 * **Matteo Pittis**, ongoing
 * **Riccardo Del Chin**, 2025
@@ -133,11 +133,11 @@ Please, consider submitting us your amazing research :)
 * **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2021
 * **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", co-advised with Anna Rita Fasolino and Domenico Amalfitano, 2017
 
-### B.Sc. Theses
+### 35 B.Sc. Theses
 * 2023: **Dario Simone**, **Stefano Monte**
 * 2024: **Lorenzo Biribin**, **Lorenzo Basoc**, **Oliver Stevanovic**, **Gabriele Saba**, **Gaia Simeoni**, **Giacomo Zampieri**, **Gianluca Fabris**, **Matteo Blonda**, **Iury Fior**, **Alessandro Gerotto**, **Alberto Movio**, **Nicolò Pettarin**, **Federica Zamparo**, **Nicola Revelant**
 * 2025: **Lorenzo Campo**, **Federico Del Bello**, **Federico Salvatore Delia**, **Federico Magnabosco**, **Thomas Omiciuolo**, **Filippo Salvatore Sturniolo**, **Jessica Tavano**
-* 2026: **Cristian Aquilino**, **Elvedin Dobrnjic**, **Roland Gjopalaj**, **Filippo Mecozzi**, **Samuele Moro**, **Carlo Nordio**, **Gabriele Polizzotto**, **Cristian Radulescu**, **Moreno Scozzi**
+* 2026: **Cristian Aquilino**, **Giulio Benes**, **Elvedin Dobrnjic**, **Alessandro Fabbri**, **Roland Gjopalaj**, **Filippo Mecozzi**, **Samuele Moro**, **Carlo Nordio**, **Gabriele Polizzotto**, **Cristian Radulescu**, **Moreno Scozzi**, **John Toniutti**
 
 ### Internships
 * **Simone Giacomelli, Nelson Brochado**, project title: "Extreme Testing of Self-Driving Cars", 2019
