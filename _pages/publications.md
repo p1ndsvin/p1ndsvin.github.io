@@ -6,7 +6,8 @@ permalink: /publications/
 ## 2026
 * **Security Assessment of Private Package Repositories: an Experience on Acc-Py at CERN**  
    Michele Lizzit, Francesco Pinzauti, Marino Miculan, Vincenzo Riccio  
-  *Journal of Software: Evolution and Process (JSEP)*
+  *Journal of Software: Evolution and Process (JSEP)*  
+   [\[PDF\]](../assets/pdf/JSEP26.pdf)
   
 * **Does Road Diversity Really Matter in Testing Automated Driving Systems?**  
    Stefan Klikovits, Vincenzo Riccio, Ezequiel Castellano, Ahmet Cetinkaya, Alessio Gambi, Paolo Arcaini  
