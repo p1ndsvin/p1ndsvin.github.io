@@ -11,15 +11,15 @@ permalink: /research/
 
 🗺️ **Search-based boundary and feature-space exploration**  
 How can test generation efficiently explore meaningful behavioural boundaries and diverse regions of the input space?  
-[\[FSE20\]](../assets/pdf/FSE2020.pdf) [\[ISSTA21\]](../assets/pdf/issta2021.pdf) [\[TOSEM22\]](../assets/pdf/TOSEM2022.pdf) [\[ISSTA23\]](../assets/pdf/deepatash_issta23.pdf) [\[STVR26\]](../assets/pdf/riccio_STVR26.pdf) [\[TOSEM26\]](../assets/pdf/weissl_tosem2026_.pdf) [\[EMSE26\]](../assets/pdf/xmutant.pdf)
+[\[FSE20\]](../assets/pdf/FSE2020.pdf) [\[ISSTA21\]](../assets/pdf/issta2021.pdf) [\[TOSEM23\]](../assets/pdf/TOSEM2022.pdf) [\[ISSTA23\]](../assets/pdf/deepatash_issta23.pdf) [\[STVR26\]](../assets/pdf/riccio_STVR26.pdf) [\[TOSEM26\]](../assets/pdf/weissl_tosem2026_.pdf) [\[EMSE26\]](../assets/pdf/xmutant.pdf)
 
 🚘 **Testing autonomous and cyber-physical systems**  
 How can autonomous systems be tested under diverse, realistic, and behaviourally meaningful operating conditions?  
-[\[FSE20\]](../assets/pdf/FSE2020.pdf) [\[ISSTA21\]](../assets/pdf/issta2021.pdf) [\[TOSEM22\]](../assets/pdf/TOSEM2022.pdf) [\[EMSE24\]](../assets/pdf/EMSE2024.pdf) [\[TOSEM24\]](../assets/pdf/TOSEM2024.pdf) [\[EMSE25\]](../assets/pdf/EMSE_LIFTJANUS.pdf) [\[EMSE26\]](../assets/pdf/EMSE2026.pdf)
+[\[FSE20\]](../assets/pdf/FSE2020.pdf) [\[ISSTA21\]](../assets/pdf/issta2021.pdf) [\[TOSEM23\]](../assets/pdf/TOSEM2022.pdf) [\[EMSE24\]](../assets/pdf/EMSE2024.pdf) [\[TOSEM24\]](../assets/pdf/TOSEM2024.pdf) [\[EMSE25\]](../assets/pdf/EMSE_LIFTJANUS.pdf) [\[EMSE26\]](../assets/pdf/EMSE2026.pdf)
 
 🧩 **Fault models and explanations for AI software testing**  
 Which faults affect AI-enabled software and how can observed failures be interpreted?  
-[\[ICSE19\]](../assets/pdf/ICSE2019.pdf) [\[EMSE20\]](../assets/pdf/EMSE2020.pdf) [\[ASE21\]](../assets/pdf/ase2021.pdf) [\[ESEM23\]](../assets/pdf/ESEM2023.pdf)
+[\[ICSE20\]](../assets/pdf/ICSE2019.pdf) [\[EMSE20\]](../assets/pdf/EMSE2020.pdf) [\[ASE21\]](../assets/pdf/ase2021.pdf) [\[ESEM23\]](../assets/pdf/ESEM2023.pdf)
 
 🔐 **Empirical security and trustworthy software ecosystems**  
 How can empirical analysis expose security weaknesses in software policies, dependencies, and distribution infrastructure?  
