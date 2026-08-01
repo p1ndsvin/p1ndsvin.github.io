@@ -68,9 +68,6 @@ permalink: /service/
 * ASE 2022 - Artifact Evaluation
 * MOBILESoft 2022 - Research track
 
-### Reviewer
-* ENASE 2017
-
 ## Workshops
 ### Program Co-Organizer
 * SBFT@ICSE 2024, 2025 
@@ -81,6 +78,7 @@ permalink: /service/
 * SBFT@ICSE 2021, 2022, 2023 - Tool Competition Co-Organizer
 
 ### PC Member
+* RASE@ASE 2026 
 * AIST@ICST 2025 
 * AIST@ICST 2024  
 * ReSAISE@ISSRE 2023
@@ -117,50 +115,7 @@ Please, consider submitting us your amazing research :)
 * [Search-based Software Testing ](https://onlinelibrary.wiley.com/pb-assets/assets/20477481/Special%20Issue%20on%20Search-based%20software%20testing-1637849907903.pdf) - JSEP Special Issue
 * [SBST’22: Search-Based Software Engineering – Tools](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/102JKDZ8BMS) - SCICO Special Issue
 
-## Advisorship
-
-### Ph.D. Theses
-* **Michele Lizzit**, thesis title: "Advancing Static Analysis Techniques through Language Model Enhancements", ongoing, co-supervised with Marino Miculan
-* **Maryam Maryam**, thesis title: "Generative AI Models and Automated Validators for Deep Learning Test Input Generation", 2026  
-* **Tahereh Zohdinasab**, thesis title: "Exposing and Explaining Misbehaviours of Deep Learning Systems", 2024, co-supervised with Paolo Tonella
-
-### 7 M.Sc. Theses
-* **Oliver Stevanovic**, ongoing
-* **Matteo Pittis**, ongoing
-* **Riccardo Del Chin**, 2025
-* **Francesco Pinzauti**, thesis title: "An Empirical Assessment of Vulnerabilities of the CERN Internal Python ecosystem", co-advised with Marino Miculan, 2024
-* **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2022
-* **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2021
-* **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", co-advised with Anna Rita Fasolino and Domenico Amalfitano, 2017
-
-### 35 B.Sc. Theses
-* 2023: **Dario Simone**, **Stefano Monte**
-* 2024: **Lorenzo Biribin**, **Lorenzo Basoc**, **Oliver Stevanovic**, **Gabriele Saba**, **Gaia Simeoni**, **Giacomo Zampieri**, **Gianluca Fabris**, **Matteo Blonda**, **Iury Fior**, **Alessandro Gerotto**, **Alberto Movio**, **Nicolò Pettarin**, **Federica Zamparo**, **Nicola Revelant**
-* 2025: **Lorenzo Campo**, **Federico Del Bello**, **Federico Salvatore Delia**, **Federico Magnabosco**, **Thomas Omiciuolo**, **Filippo Salvatore Sturniolo**, **Jessica Tavano**
-* 2026: **Cristian Aquilino**, **Giulio Benes**, **Elvedin Dobrnjic**, **Alessandro Fabbri**, **Roland Gjopalaj**, **Filippo Mecozzi**, **Samuele Moro**, **Carlo Nordio**, **Gabriele Polizzotto**, **Cristian Radulescu**, **Moreno Scozzi**, **John Toniutti**
-
-### Internships
-* **Simone Giacomelli, Nelson Brochado**, project title: "Extreme Testing of Self-Driving Cars", 2019
-
-### Secondary School
-* LAM, Tutor for school-leaving exams, 2022
-* [SJF Study Week](https://sjf.ch/it/review-settimana-di-studio-fascinating-informatics-2021/), project title: "Telemetry Dashboard for Self-Driving Cars", 2021
-
-## Volunteering
-* [U.I.C.I.](https://www.uiciechi.it), Computer training for the visually impaired, 2016-2017 
-
-## Hackatons & Events
-### Co-Organizer
-* #FormulaUSI 2022  
-* [#FormulaUSI 2021](https://formulausi.si.usi.ch/2021/)
-
-### Tutor
-* Porte Aperte, Open Day @ Università degli Studi di Napoli "Federico II", 2017  
-
 ## Committees  
 * **MSc Dissertation Defense External Member** for Paulo Nunes, UFPE, Brazil, 2023  
 * **PhD Dissertation Defense External Member** for Hazem Fahmy, University of Luxembourg, Luxembourg, 2023  
 * **PhD Thesis External Reviewer** for Jon Ayerdi, Mondragon University, Spain, 2022  
-
-## Misc  
-* **Book proposal reviewer** for Springer - Computer Science Editorial  
