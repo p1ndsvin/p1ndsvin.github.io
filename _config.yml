@@ -26,7 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Vincenzo Riccio - Associate Professor @ UniUd - Software Engineering Research
 url: "https://p1ndsvin.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: p1ndsvin
 github_username:  p1ndsvin
 locale: "en-US"
 title_separator: "·"
@@ -42,7 +41,7 @@ footer:
       url: "https://www.linkedin.com/in/vincenzo-riccio-ab1b1993"
 
 author:
-  name: "Vincenzo Riccio"
+  #name: "Vincenzo Riccio"
   #avatar: "/assets/images/Riccio.jpg"
   bio: "Associate Professor @ UniUd" # Note: Markdown is allowed
   location: "Udine, Italy"
