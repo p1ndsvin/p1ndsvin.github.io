@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Bio"
+title: "Main Page"
 ---
 
 <div class="row">
