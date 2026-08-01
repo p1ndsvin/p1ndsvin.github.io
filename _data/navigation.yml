@@ -5,7 +5,7 @@ main:
 #    url: /year-archive/
 #  - title: "Tools"
 #    url: /categories/
- - title: "Research"
+  - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
