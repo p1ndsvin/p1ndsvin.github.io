@@ -20,31 +20,6 @@ title: "Main Page"
 
 🏅 **Qualifications:** I obtained the Italian **National Scientific Habilitation for Full Professor** in Computer Science (01/B1) and Computer Engineering (09/H1).
 
-# Research Interests
-
-<div class="row">
-  <div class="column">
-    <div class="image-cropper">
-      <img src="{{site.baseurl}}/assets/images/search.png"/>
-    </div>
-    <p style="font-size:20px">Software<br> Testing</p>
-  </div>
-  <div class="column">
-    <div class="image-cropper">
-      <img src="{{site.baseurl}}/assets/images/brain.png"/>
-    </div>
-    <p style="font-size:20px">Artificial<br> Intelligence</p>
-  </div>
-  <div class="column">
-    <div class="image-cropper">
-      <img src="{{site.baseurl}}/assets/images/dna.png"/>
-    </div>
-    <p style="font-size:20px">Evolutionary<br> Computation</p>
-  </div>
-</div>
-
-
-
 # Experience
 
 <div class="timeline">
