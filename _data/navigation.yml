@@ -11,6 +11,8 @@ main:
     url: /publications/
   - title: "Team"
     url: /team/
+  - title: "Projects"
+    url: /projects/   
   - title: "Service"
     url: /service/
   - title: "Contact Me"
