@@ -33,30 +33,46 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 ## Current researchers
 
 ### Michele Lizzit — PhD Researcher
-
-**Research:** Static analysis, software supply-chain security, and LLM-assisted vulnerability detection.
-
-**Supervision:** Co-supervised with Marino Miculan.
+**Research:** Static analysis, software supply-chain security, and LLM-assisted vulnerability detection.  
+**Related direction:** [Empirical security and trustworthy software ecosystems](/research/)  
+**Supervision:** Co-supervised with Marino Miculan.  
+**Expected completion:** 2027  
+**Selected work:** Security Assessment of Private Package Repositories: An Experience on Acc-Py at CERN — [JSEP 2026]((../assets/pdf/JSEP26.pdf))
 
 ## Current MSc researchers
 
 ### Alessandro De Biasi
+**Project:** Black-Box REST API Testing  
+**Expected completion:** 2026. 
 
 ### Oliver Stevanovic
+**Project:** AI Agents and Secure Software Dependencies  
+**Expected completion:** 2026.
 
 ### Matteo Pittis
+**Project:** Agentic Software Development  
+**Expected completion:** 2026.
+
+## Current BSc Students
+* INTERNET OF THINGS, BIG DATA, MACHINE LEARNING: Thomas Casasola, Davide Cossidente, Emanuele Driussi, Tommaso Trentin, Marco Ungaro
+* COMPUTER SCIENCE: Daniel Fragrante, Alessandro Gaio, Aleksandar Gajic, Fabio Pistrin, Michele Polo, Leonardo Sultato Tonon, Riccardo Tridente
 
 ## Alumni
 
 ### Maryam Maryam — PhD, 2026
-
-**Thesis:** *Generative AI Models and Automated Validators for Deep Learning Test Input Generation*
+**Thesis:** *Generative AI Models and Automated Validators for Deep Learning Test Input Generation*  
+**Current position:** Research Assistant at Lero, University of Limerick, Ireland.  
+**Selected work:**  
+- *Benchmarking Generative AI Models for Deep Learning Test Input Generation*, ICST 2025
+- *DeepNaqqal: Human-Aligned Automated Validation of Test Inputs for Deep Learning*, ICST 2026  
 
 ### Tahereh Zohdinasab — PhD, 2024
-
 **Thesis:** *Exposing and Explaining Misbehaviours of Deep Learning Systems*
-
-**Supervision:** Co-supervised with Paolo Tonella.
+**Current position:** Test Automation Manager, Sonova Group, Switzerland. 
+**Supervision:** Co-supervised with Paolo Tonella. 
+**Selected work:**  
+- *DeepHyperion: Exploring the Feature Space of Deep Learning-Based Systems*, ISSTA 2021  
+- *DeepAtash: Focused Test Generation for Deep Learning Systems*, ISSTA 2023   
 
 ### 5 M.Sc. Theses
 * **Riccardo Del Chin**, 2025
