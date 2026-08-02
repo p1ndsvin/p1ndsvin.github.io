@@ -38,7 +38,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 
 <div class="row" style="text-align: center;">
   <img
-    src="{{ site.baseurl }}/assets/images/riccio-aseru.png"
+    src="{{ site.baseurl }}/assets/images/riccio_aseru.png"
     alt="Vincenzo Riccio"
     style="
       width: 180px;
