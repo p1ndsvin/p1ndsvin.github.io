@@ -15,9 +15,12 @@ I lead and supervise research in **software testing and empirical software engin
       width: 320px;
       max-width: 90%;
       height: auto;
+      background-color: white;
+      padding: 18px;
       border-radius: 50%;
       display: inline-block;
-      padding-bottom: 20px;
+      box-sizing: border-box;
+      margin-bottom: 20px;
     "
   >
 </div>
