@@ -32,8 +32,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 
 > 🔬 **Research opportunities:** I welcome inquiries from prospective PhD, MSc, and visiting researchers whose interests align with my [research directions](/research/).
 
-## Current PhD Researchers
-
+## Team Members
 ### Vincenzo Riccio — Team Leader
 
 <div class="row" style="text-align: center;">
@@ -83,9 +82,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Expected completion:** 2027  
 **Selected work:** Security Assessment of Private Package Repositories: An Experience on Acc-Py at CERN — [JSEP 2026](../assets/pdf/JSEP26.pdf)
 
-## Current MSc Researchers
-
-### Alessandro De Biasi
+### Alessandro De Biasi — MSc Researcher
 
 <div class="row" style="text-align: center;">
   <img
@@ -108,7 +105,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Project:** Black-Box REST API Testing  
 **Expected completion:** 2026. 
 
-### Oliver Stevanovic
+### Oliver Stevanovic — MSc Researcher
 
 <div class="row" style="text-align: center;">
   <img
@@ -131,7 +128,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Project:** AI Agents and Secure Software Dependencies  
 **Expected completion:** 2026.
 
-### Matteo Pittis
+### Matteo Pittis — MSc Researcher
 
 <div class="row" style="text-align: center;">
   <img
