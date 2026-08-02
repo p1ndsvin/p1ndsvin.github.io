@@ -165,9 +165,9 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 - *DeepNaqqal: Human-Aligned Automated Validation of Test Inputs for Deep Learning*, ICST 2026  
 
 ### Tahereh Zohdinasab — PhD, 2024
-**Thesis:** *Exposing and Explaining Misbehaviours of Deep Learning Systems*
-**Current position:** Test Automation Manager, Sonova Group, Switzerland. 
-**Supervision:** Co-supervised with Paolo Tonella. 
+**Thesis:** *Exposing and Explaining Misbehaviours of Deep Learning Systems*  
+**Current position:** Test Automation Manager, Sonova Group, Switzerland.  
+**Supervision:** Co-supervised with Paolo Tonella.  
 **Selected work:**  
 - *DeepHyperion: Exploring the Feature Space of Deep Learning-Based Systems*, ISSTA 2021  
 - *DeepAtash: Focused Test Generation for Deep Learning Systems*, ISSTA 2023   
