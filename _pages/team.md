@@ -34,6 +34,29 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 
 ## Current PhD Researchers
 
+### Vincenzo Riccio — Team Leader
+
+<div class="row" style="text-align: center;">
+  <img
+    src="{{ site.baseurl }}/assets/images/riccio-aseru.png"
+    alt="Vincenzo Riccio"
+    style="
+      width: 180px;
+      max-width: 70%;
+      height: auto;
+      background-color: white;
+      padding: 10px;
+      border-radius: 50%;
+      display: inline-block;
+      box-sizing: border-box;
+      margin-bottom: 16px;
+    "
+  >
+</div>
+
+**Associate Professor of Software Engineering**  
+**Founder and leader of ASERU**
+
 ### Michele Lizzit — PhD Researcher
 
 <div class="row" style="text-align: center;">
