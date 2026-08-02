@@ -8,15 +8,15 @@ title: "Main Page"
 <img src="{{site.baseurl}}/assets/images/Riccio-squared.jpeg" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
 </div>
 
-🔬 **Research:** Automatically generated tests are useful only when they represent meaningful behaviours of the software system. My research studies how to generate, validate, and interpret trustworthy test evidence for **learning-enabled, autonomous, and cyber-physical software**.
+🔬 **Research:** Automatically generated tests are useful only when they represent meaningful behaviours of the software system. My research studies how to generate, validate, and interpret trustworthy test evidence for **learning-enabled, autonomous, and cyber-physical software**. Check my [research](/research/) and [publications](/publications/).   
 
-👤 **Short bio:** I am an **Associate Professor of Software Engineering at the University of Udine**, where I lead the Software Engineering Research Unit within the MADS Laboratory. I also serve on the board of the **PhD Programme in Computer Science and Artificial Intelligence**. Previously, I was a postdoctoral researcher at the Università della Svizzera italiana.
+👤 **Short bio:** I am an **Associate Professor of Software Engineering at the University of Udine**, where I lead the Software Engineering Research Unit within the MADS Laboratory. I also serve on the board of the [**PhD Programme in Computer Science and Artificial Intelligence**](https://dmif.uniud.it/en/teaching/phd-courses/iai/phd-course-in-computer-science-and-artificial-intelligence). Previously, I was a postdoctoral researcher at the Università della Svizzera italiana. [Learn more about my career](/cv/).    
 
-🎓 **Teaching and supervision:** I teach **software engineering, software testing, and informatics** across computer science and interdisciplinary programmes. I supervise PhD, MSc, and BSc research in software testing and empirical software engineering.
+🎓 **Teaching and supervision:** I teach **software engineering, software testing, and informatics** across computer science and interdisciplinary programmes. I supervise PhD, MSc, and BSc research in software testing and empirical software engineering. [Explore our team](/team/).    
 
-💰 **Funded projects:** In the **ERC Advanced Grant PRECRIME**, I led the work package on **Test Input Generation** for deep-learning-based software systems. At Udine, I served as **local scientific coordinator and work-package scientific coordinator** in two NextGenerationEU **SERICS** projects: **SecCo-OC**, on security-policy languages and behavioural models for containers, and **SOP**, on fuzz-testing techniques.
+💰 **Funded projects:** In the **ERC Advanced Grant PRECRIME**, I led the work package on **Test Input Generation** for deep-learning-based software systems. At Udine, I served as **local scientific coordinator and work-package scientific coordinator** in two NextGenerationEU **SERICS** projects: **SecCo-OC**, on security-policy languages and behavioural models for containers, and **SOP**, on fuzz-testing techniques. [More information about funded projects](/projects/).    
 
-🛎️ **Main service roles:** I serve on the Editorial Boards of **Empirical Software Engineering** and **Software Engineering Nexus**. I also contribute to the organization of, and serve on the programme committees of, leading software engineering conferences, including **ICSE**, **ASE**, **FSE**, **ISSTA**, **ESEM**, and **ICST**.
+🛎️ **Main service roles:** I serve on the Editorial Boards of **Empirical Software Engineering** and **Software Engineering Nexus**. I also contribute to the organization of, and serve on the programme committees of, leading software engineering conferences, including **ICSE**, **ASE**, **FSE**, **ISSTA**, **ESEM**, and **ICST**. [More information about my academic service](/service/).
 
 🏅 **Qualifications:** I obtained the Italian **National Scientific Habilitation for Full Professor** in Computer Science (01/B1) and Computer Engineering (09/H1).
 
