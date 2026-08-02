@@ -28,7 +28,7 @@ I lead and supervise research in **software testing and empirical software engin
 The **Automated Software Engineering Research Unit (ASERU)** is part of the **Models and Applications of Distributed Systems (MADS) Laboratory**
 at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino.miculan.org/) and combines complementary expertise in software engineering, formal methods, security, and distributed systems.
 
-🐇 **Why ASERU?** In Japanese, *aseru* (焦る) means to hurry, become impatient. Software should be tested before pressure and deadlines turns into failure. As the White Rabbit says, *“Oh dear! Oh dear! I shall be too late!”*
+🐇 **Why ASERU?** In Japanese, *aseru* (焦る) means to hurry, become impatient. Software should be tested before pressure and deadlines turn into failure. As the White Rabbit says, *“Oh dear! Oh dear! I shall be too late!”*
 
 > 🔬 **Research opportunities:** I welcome inquiries from prospective PhD, MSc, and visiting researchers whose interests align with my [research directions](/research/).
 
