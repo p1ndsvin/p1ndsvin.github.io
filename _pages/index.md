@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Main Page"
+title: ""
 ---
 
 <div class="row">
