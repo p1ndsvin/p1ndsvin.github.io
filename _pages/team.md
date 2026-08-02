@@ -58,7 +58,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Related direction:** [Empirical security and trustworthy software ecosystems](/research/)  
 **Supervision:** Co-supervised with Marino Miculan.  
 **Expected completion:** 2027  
-**Selected work:** Security Assessment of Private Package Repositories: An Experience on Acc-Py at CERN — [JSEP 2026]((../assets/pdf/JSEP26.pdf))
+**Selected work:** Security Assessment of Private Package Repositories: An Experience on Acc-Py at CERN — [JSEP 2026](../assets/pdf/JSEP26.pdf)
 
 ## Current MSc researchers
 
