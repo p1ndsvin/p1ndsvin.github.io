@@ -20,6 +20,8 @@ title: "Main Page"
 
 🏅 **Qualifications:** I obtained the Italian **National Scientific Habilitation for Full Professor** in Computer Science (01/B1) and Computer Engineering (09/H1).
 
+📢 **Join my group** Fully funded PhD opening: Boundary-Aware Testing and Fuzzing for Trustworthy AI-Enabled and Agentic Software Systems. **Deadline: 31 August 2026, 1:00 PM CEST**. [Details and application](https://cysec.imtlucca.it/research-projects)
+
 # Experience
 
 <div class="timeline">
