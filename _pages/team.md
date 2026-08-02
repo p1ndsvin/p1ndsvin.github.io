@@ -32,7 +32,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 
 > 🔬 **Research opportunities:** I welcome inquiries from prospective PhD, MSc, and visiting researchers whose interests align with my [research directions](/research/).
 
-## Current researchers
+## Current PhD Researchers
 
 ### Michele Lizzit — PhD Researcher
 
@@ -60,7 +60,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Expected completion:** 2027  
 **Selected work:** Security Assessment of Private Package Repositories: An Experience on Acc-Py at CERN — [JSEP 2026](../assets/pdf/JSEP26.pdf)
 
-## Current MSc researchers
+## Current MSc Researchers
 
 ### Alessandro De Biasi
 
