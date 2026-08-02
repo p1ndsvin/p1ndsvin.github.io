@@ -33,6 +33,25 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 ## Current researchers
 
 ### Michele Lizzit — PhD Researcher
+
+<div class="row" style="text-align: center;">
+  <img
+    src="{{ site.baseurl }}/assets/images/lizzit.png"
+    alt="Michele Lizzit"
+    style="
+      width: 180px;
+      max-width: 70%;
+      height: auto;
+      background-color: white;
+      padding: 10px;
+      border-radius: 50%;
+      display: inline-block;
+      box-sizing: border-box;
+      margin-bottom: 16px;
+    "
+  >
+</div>
+
 **Research:** Static analysis, software supply-chain security, and LLM-assisted vulnerability detection.  
 **Related direction:** [Empirical security and trustworthy software ecosystems](/research/)  
 **Supervision:** Co-supervised with Marino Miculan.  
