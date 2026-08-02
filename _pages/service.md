@@ -6,7 +6,7 @@ permalink: /service/
 
 ## 📚 Editorial Service
 - Editorial Board Member, [Empirical Software Engineering](https://www.springer.com/journal/10664)  
-- Editorial Board Member, [Software Engineering Nexus](<existing-sen-link>)(https://www.sciencedirect.com/journal/software-engineering-nexus)  
+- Editorial Board Member, [Software Engineering Nexus](https://www.sciencedirect.com/journal/software-engineering-nexus)  
 
 ## 🗓️ Conference Organization
 - ICST 2027 — Student Volunteers co-chair
