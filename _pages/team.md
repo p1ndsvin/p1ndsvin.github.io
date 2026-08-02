@@ -7,8 +7,19 @@ author_profile: true
 
 I lead and supervise research in **software testing and empirical software engineering**, with particular emphasis on learning-enabled, autonomous, cyber-physical, and security-critical systems.
 
-<div class="row">
-<img src="{{site.baseurl}}/assets/images/aseru.png" alt="ASERU" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
+<div class="row" style="text-align: center;">
+  <img
+    src="{{ site.baseurl }}/assets/images/aseru.png"
+    alt="ASERU"
+    style="
+      width: 320px;
+      max-width: 90%;
+      height: auto;
+      border-radius: 50%;
+      display: inline-block;
+      padding-bottom: 20px;
+    "
+  >
 </div>
 
 The **Automated Software Engineering Research Unit (ASERU)** is part of the **Models and Applications of Distributed Systems (MADS) Laboratory**
