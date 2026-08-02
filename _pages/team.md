@@ -5,7 +5,12 @@ permalink: /team/
 author_profile: true
 ---
 
-My team investigates software testing and empirical software engineering, with particular emphasis on learning-enabled, autonomous, cyber-physical, and security-critical systems.
+I lead and supervise research in **software testing and empirical software engineering**, with particular emphasis on learning-enabled, autonomous, cyber-physical, and security-critical systems.
+
+The **Automated Software Engineering Research Unit (ASERU)** is part of the **Models and Applications of Distributed Systems (MADS) Laboratory**
+at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino.miculan.org/) and combines complementary expertise in software engineering, formal methods, security, and distributed systems.
+
+> 🔬 **Research opportunities:** I welcome inquiries from prospective PhD, MSc, and visiting researchers whose interests align with my [research directions](/research/).
 
 ## Current researchers
 
