@@ -7,6 +7,10 @@ author_profile: true
 
 I lead and supervise research in **software testing and empirical software engineering**, with particular emphasis on learning-enabled, autonomous, cyber-physical, and security-critical systems.
 
+<div class="row">
+<img src="{{site.baseurl}}/assets/images/aseru.png" alt="ASERU" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
+</div>
+
 The **Automated Software Engineering Research Unit (ASERU)** is part of the **Models and Applications of Distributed Systems (MADS) Laboratory**
 at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino.miculan.org/) and combines complementary expertise in software engineering, formal methods, security, and distributed systems.
 
