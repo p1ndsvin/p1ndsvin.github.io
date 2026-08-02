@@ -65,6 +65,25 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Expected completion:** 2026. 
 
 ### Oliver Stevanovic
+
+<div class="row" style="text-align: center;">
+  <img
+    src="{{ site.baseurl }}/assets/images/oliste.png"
+    alt="Oliver Stevanovic"
+    style="
+      width: 160px;
+      max-width: 65%;
+      height: auto;
+      background-color: white;
+      padding: 10px;
+      border-radius: 50%;
+      display: inline-block;
+      box-sizing: border-box;
+      margin-bottom: 16px;
+    "
+  >
+</div>
+
 **Project:** AI Agents and Secure Software Dependencies  
 **Expected completion:** 2026.
 
