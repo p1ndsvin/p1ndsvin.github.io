@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: ""
+title: "Home Page"
 ---
 
 <div class="row">
@@ -22,7 +22,7 @@ title: ""
 
 📢 **Join my group** Fully funded PhD opening: Boundary-Aware Testing and Fuzzing for Trustworthy AI-Enabled and Agentic Software Systems. **Deadline: 31 August 2026, 1:00 PM CEST**. [Details and application](https://cysec.imtlucca.it/research-projects)
 
-## Selected publications
+## Selected Publications
 
 The following publications represent the main development of my research on testing and quality assurance for learning-enabled, autonomous, and cyber-physical software. You can take a look at the [full list of my publications](/publications/).
 
