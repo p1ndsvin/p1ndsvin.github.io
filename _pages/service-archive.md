@@ -15,6 +15,7 @@ This page provides a complete chronological record of my conference, workshop, j
 * FSE 2027 - Research track
 * ICSE 2026 - Research track
 * ASE 2026 - Research Papers track
+* ASE 2026 - Student Research Competition track
 * ISSTA 2026 - Technical Papers track
 * ICST 2026 - Research track
 * ESEM 2026 - Technical track
