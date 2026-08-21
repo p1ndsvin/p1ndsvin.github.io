@@ -10,8 +10,8 @@ author_profile: true
 This page provides a complete chronological record of my conference, workshop, journal service.
 
 ## Conference Program Committees
-
 * ICSE 2027 - Research track
+* ICST 2027 - Research track
 * FSE 2027 - Research track
 * ICSE 2026 - Research track
 * ASE 2026 - Research Papers track
