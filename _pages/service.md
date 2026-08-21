@@ -35,8 +35,9 @@ I regularly serve on the research and technical programme committees of leading 
 - **ASE** — Research Papers Track, 2024, 2025, 2026
 - **FSE** — Research Papers Track, 2024, 2027
 - **ISSTA** — Technical Papers Track, 2024, 2025, 2026
-- **ICST** — Research Track, 2024, 2026
+- **ICST** — Research Track, 2024, 2026, 2027
 - **ESEM** — Technical Papers Track, 2023, 2024, 2025, 2026
+[View the complete list of program committees](/service-archive/)
 
 ## 📖 Guest editorships
 * [Innovations in Software System Testing with Deep Learning](https://emsejournal.github.io/special_issues/2023_Innovations_in_Software_System_Testing_with_Deep_Learning.html) - EMSE Special Issue
@@ -51,5 +52,3 @@ I regularly serve on the research and technical programme committees of leading 
 - **PhD Dissertation Defence Committee Member** for Hazem Fahmy, University of Luxembourg, Luxembourg, 2023
 - **PhD Thesis External Reviewer** for Jon Ayerdi, Mondragon University, Spain, 2022
 - **MSc Dissertation Defence Committee Member** for Paulo Nunes, Universidade Federal de Pernambuco, Brazil, 2023
-
-[View the complete list of program committees](/service-archive/)
