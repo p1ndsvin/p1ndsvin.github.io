@@ -5,7 +5,7 @@ title: "Home Page"
 ---
 
 <div class="row">
-<img src="{{site.baseurl}}/assets/images/Riccio-squared.jpeg" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
+<img src="{{site.baseurl}}/assets/images/portrait_2026_squared.png" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
 </div>
 
 🔬 **Research:** Automatically generated tests are useful only when they represent meaningful behaviours of the software system. My research studies how to generate, validate, and interpret trustworthy test evidence for **learning-enabled, autonomous, and cyber-physical software**. Check my [research](/research/).   
