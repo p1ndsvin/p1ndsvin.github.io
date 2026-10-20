@@ -105,6 +105,29 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Project:** Black-Box REST API Testing  
 **Expected completion:** 2026. 
 
+### John Toniutti — MSc Researcher
+
+<div class="row" style="text-align: center;">
+  <img
+    src="{{ site.baseurl }}/assets/images/toniutti.png"
+    alt="John Toniutti"
+    style="
+      width: 160px;
+      max-width: 65%;
+      height: auto;
+      background-color: white;
+      padding: 10px;
+      border-radius: 50%;
+      display: inline-block;
+      box-sizing: border-box;
+      margin-bottom: 16px;
+    "
+  >
+</div>
+
+**Project:** Black-Box REST API Testing  
+**Expected completion:** 2027. 
+
 ### Oliver Stevanovic — MSc Researcher
 
 <div class="row" style="text-align: center;">
