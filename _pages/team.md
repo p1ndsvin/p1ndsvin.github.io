@@ -151,32 +151,9 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Project:** AI Agents and Secure Software Dependencies  
 **Expected completion:** 2026.
 
-### Matteo Pittis — MSc Researcher
-
-<div class="row" style="text-align: center;">
-  <img
-    src="{{ site.baseurl }}/assets/images/matpit.png"
-    alt="Matteo Pittis"
-    style="
-      width: 160px;
-      max-width: 65%;
-      height: auto;
-      background-color: white;
-      padding: 10px;
-      border-radius: 50%;
-      display: inline-block;
-      box-sizing: border-box;
-      margin-bottom: 16px;
-    "
-  >
-</div>
-
-**Project:** Agentic Software Development  
-**Expected completion:** 2026.
-
 ## Current BSc Students
-* INTERNET OF THINGS, BIG DATA, MACHINE LEARNING: Thomas Casasola, Davide Cossidente, Emanuele Driussi, Tommaso Trentin, Marco Ungaro
-* COMPUTER SCIENCE: Daniel Fragrante, Alessandro Gaio, Aleksandar Gajic, Fabio Pistrin, Michele Polo, Leonardo Sultato Tonon, Riccardo Tridente
+* INTERNET OF THINGS, BIG DATA, MACHINE LEARNING: Thomas Casasola
+* COMPUTER SCIENCE: Alessandro Damiani, Alessandro Gaio, Fabio Pistrin, Michele Polo, Leonardo Sultato Tonon, Riccardo Tridente
 
 ## Alumni
 
@@ -195,15 +172,16 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 - *DeepHyperion: Exploring the Feature Space of Deep Learning-Based Systems*, ISSTA 2021  
 - *DeepAtash: Focused Test Generation for Deep Learning Systems*, ISSTA 2023   
 
-### 5 M.Sc. Theses
-* **Riccardo Del Chin**, 2025
+### 6 M.Sc. Theses
+* **Matteo Pittis**, Agentic Software Development, 2026
+* **Riccardo Del Chin**, Empirical Assessment of RAG-based software, 2025
 * **Francesco Pinzauti**, thesis title: "An Empirical Assessment of Vulnerabilities of the CERN Internal Python ecosystem", co-advised with Marino Miculan, 2024
 * **Lodovico Azzini**, thesis title: "Opening the Black Box: Heatmap Clustering to Understand the Misbehaviors Exposed by Automatically Generated Test Inputs", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2022
 * **Kiarash Jamshidi**, thesis title: "Exploiting Video Games to Test Autonomous Vehicles", co-advised with Paolo Tonella and Tahereh Zohdinasab, 2021
 * **Raffaele Sellitto**, thesis title: "Tools and Techniques for Memory Leak Detection in Android Mobile Applications", co-advised with Anna Rita Fasolino and Domenico Amalfitano, 2017
 
-### 35 B.Sc. Theses
+### 41 B.Sc. Theses
 * 2023: **Dario Simone**, **Stefano Monte**
 * 2024: **Lorenzo Biribin**, **Lorenzo Basoc**, **Oliver Stevanovic**, **Gabriele Saba**, **Gaia Simeoni**, **Giacomo Zampieri**, **Gianluca Fabris**, **Matteo Blonda**, **Iury Fior**, **Alessandro Gerotto**, **Alberto Movio**, **Nicolò Pettarin**, **Federica Zamparo**, **Nicola Revelant**
 * 2025: **Lorenzo Campo**, **Federico Del Bello**, **Federico Salvatore Delia**, **Federico Magnabosco**, **Thomas Omiciuolo**, **Filippo Salvatore Sturniolo**, **Jessica Tavano**
-* 2026: **Cristian Aquilino**, **Giulio Benes**, **Elvedin Dobrnjic**, **Alessandro Fabbri**, **Roland Gjopalaj**, **Filippo Mecozzi**, **Samuele Moro**, **Carlo Nordio**, **Gabriele Polizzotto**, **Cristian Radulescu**, **Moreno Scozzi**, **John Toniutti**
+* 2026: **Cristian Aquilino**, **Giulio Benes**, **Elvedin Dobrnjic**, **Alessandro Fabbri**, **Roland Gjopalaj**, **Filippo Mecozzi**, **Samuele Moro**, **Carlo Nordio**, **Gabriele Polizzotto**, **Cristian Radulescu**, **Moreno Scozzi**, **John Toniutti**, **Daniel Fragrante**, **Aleksandar Gajic**, **Davide Cossidente**, **Emanuele Driussi**, **Tommaso Trentin**, **Marco Ungaro**
