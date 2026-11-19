@@ -151,8 +151,8 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 **Project:** AI Agents and Secure Software Dependencies  
 **Expected completion:** 2026.
 
-## Current BSc Students
-* INTERNET OF THINGS, BIG DATA, MACHINE LEARNING: Thomas Casasola
+## Current Students
+* INTERNET OF THINGS, BIG DATA, MACHINE LEARNING: Thomas Casasola, Filippo Marcolini
 * COMPUTER SCIENCE: Alessandro Damiani, Alessandro Gaio, Fabio Pistrin, Michele Polo, Leonardo Sultato Tonon, Riccardo Tridente
 
 ## Alumni
