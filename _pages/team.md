@@ -153,7 +153,7 @@ at the University of Udine. MADS is led by Prof. [Marino Miculan](https://marino
 
 ## Current Students
 * INTERNET OF THINGS, BIG DATA, MACHINE LEARNING: Thomas Casasola, Filippo Marcolini
-* COMPUTER SCIENCE: Sofia Bledig, Alessandro Damiani, Alessandro Gaio, Fabio Pistrin, Michele Polo, Leonardo Sultato Tonon, Riccardo Tridente
+* COMPUTER SCIENCE: Sofia Bledig, Alessandro Damiani, Alessandro Gaio, Veronica Negro, Fabio Pistrin, Michele Polo, Leonardo Sultato Tonon, Riccardo Tridente
 
 ## Alumni
 
